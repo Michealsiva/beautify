@@ -1,0 +1,47 @@
+.share-box {
+	float:right;
+	.widget-title {
+		margin-bottom:50px;
+		color: $secondary;
+	}
+	h4 {
+		margin-bottom: 15px;
+		font-size:14px;
+		font-weight:400;
+		display:inline-block;
+	}
+	ul {  
+		margin: 0;
+		display:inline-block;
+		li {
+			padding: 0;
+			margin: 0 8px 0px 0px;
+			display: inline-block;
+			a {
+				@include size(30px, 30px);
+				display: inline-block;    
+				text-align: center;
+				line-height: 30px;
+				color:$white;
+				background-color: $secondary;
+				
+				&:hover {
+					color: $white;
+					background-color: $primary;
+					
+				}
+
+				i {
+					@include font-size(1.4);
+					line-height: 2;
+				}
+			}
+		}
+	}
+}
+
+
+.share-box {
+	
+	margin-bottom: 0px;
+}

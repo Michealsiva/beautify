@@ -1,0 +1,60 @@
+.entry-content blockquote p {
+	font-weight: 700;
+	font-size: 1.3em;
+	margin-bottom: .5em;
+}
+
+
+.pullright,
+.pullleft,
+.pullnone {
+	position: relative;
+	margin: 0;
+	display: inline-block;
+	margin-bottom: 20px;
+	margin-top: 30px; 
+	@include font-size(1.8);
+	font-family: $heading_font;
+	padding: 0 20px 0 60px;
+	color: $secondary;
+	font-weight:700;
+	border-left:6px solid $primary;
+
+	&:before {
+		position: absolute;
+		content: "\f10d";
+		@include font-size(2.2);
+		font-weight:400;
+		font-family: 'FontAwesome';   
+		left: 20px;
+		top:-5px;
+		color: $primary;	
+	}	
+	p{
+		margin:0px;
+	}
+}
+
+.pullright {
+	float: right;
+	margin-left: 30px;
+	width: 50%;	
+	margin-top:0;
+}
+
+.pullleft {
+	float: left;
+	width: 50%;	
+	margin-right: 30px;
+	margin-top:0;
+}
+
+.pullnone {
+	display: inline-block;
+}
+
+
+
+@import "footer";
+
+@import "sidebar";

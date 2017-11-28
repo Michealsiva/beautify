@@ -1,0 +1,24 @@
+.left-sidebar {
+	.widget_social-networks-widget	{
+		ul {
+			text-align: left;
+			clear: both;
+			li {
+				border: 0;
+				padding: 0;
+				a {
+					@include size(40px,40px);
+					height: inherit !important;
+					width: inherit  !important;
+					color: $black;
+					i {
+						@include transition-default(all,0.5s,ease);
+					}
+					&:hover i {
+						color: $primary;
+					}
+				}
+			}
+		}
+	} 
+}

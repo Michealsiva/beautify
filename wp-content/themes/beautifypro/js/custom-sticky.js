@@ -1,0 +1,1 @@
+!function(a){a(window).scroll(function(){a(this).scrollTop()>1?a(".nav-wrap").addClass("sticky-header"):a(".nav-wrap").removeClass("sticky-header")})}(jQuery);

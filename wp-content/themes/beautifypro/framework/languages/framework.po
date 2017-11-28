@@ -1,0 +1,3598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genex Framework\n"
+"POT-Creation-Date: 2016-11-14 11:10+0530\n"
+"PO-Revision-Date: 2016-11-14 11:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/vendor/meta-box/core/inc/core.php:42
+msgid "Documentation"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/core.php:43
+msgid "Extensions"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/clone.php:91
+msgid "+ Add more"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/post.php:33
+msgid "Select a post"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/post.php:36
+#: ../includes/vendor/meta-box/core/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/checkbox.php:53
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:73
+msgid "Yes"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/checkbox.php:53
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:74
+msgid "No"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/thickbox-image.php:51
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/select-advanced.php:41
+msgid "Select an item"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/select.php:84
+#: ../includes/vendor/meta-box/core/inc/fields/file-input.php:39
+msgid "Select"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/select.php:84
+#: ../admin/widgets/gx-recent-work-widget/tpl/default.php:88
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:313
+msgid "All"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/select.php:84
+#: ../admin/class-fw-so-row-widget-style.php:202
+#: ../admin/class-fw-so-row-widget-style.php:903
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:118
+msgid "None"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:16
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:17
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:73
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:150
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file.php:151
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/map.php:57
+msgid "Find Address"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/file-input.php:41
+msgid "Remove"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/user.php:33
+msgid "Select an user"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/taxonomy.php:48
+msgid "Select a term"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:17
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:18
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:19
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:20
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:21
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:22
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:23
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:26
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:27
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/media.php:28
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/autocomplete.php:15
+#: ../includes/vendor/meta-box/core/inc/fields/autocomplete.php:74
+#: ../includes/vendor/meta-box/core/inc/fields/autocomplete.php:89
+msgid "Delete"
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/oembed.php:60
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../includes/vendor/meta-box/core/inc/fields/button.php:27
+msgid "Click me"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:19
+#: ../admin/class-fw-so-row-widget-style.php:720
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:22
+msgid "Background color of the widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:27
+#: ../admin/class-fw-so-row-widget-style.php:728
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:30
+msgid "Background image of the widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:35
+#: ../admin/class-fw-so-row-widget-style.php:736
+msgid "Background Mode"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:39
+#: ../admin/class-fw-so-row-widget-style.php:740
+msgid "Repeat"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:40
+#: ../admin/class-fw-so-row-widget-style.php:741
+msgid "No Repeat"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:41
+#: ../admin/class-fw-so-row-widget-style.php:742
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:42
+#: ../admin/class-fw-so-row-widget-style.php:743
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:43
+#: ../admin/class-fw-so-row-widget-style.php:744
+msgid "Parallax"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:44
+#: ../admin/class-fw-so-row-widget-style.php:745
+msgid "Parallax (Original Size)"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:50
+#: ../admin/class-fw-so-row-widget-style.php:751
+msgid "Background Size"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:54
+#: ../admin/class-fw-so-row-widget-style.php:68
+#: ../admin/class-fw-so-row-widget-style.php:87
+#: ../admin/class-fw-so-row-widget-style.php:124
+#: ../admin/class-fw-so-row-widget-style.php:170
+#: ../admin/class-fw-so-row-widget-style.php:233
+#: ../admin/class-fw-so-row-widget-style.php:755
+#: ../admin/class-fw-so-row-widget-style.php:769
+#: ../admin/class-fw-so-row-widget-style.php:788
+#: ../admin/class-fw-so-row-widget-style.php:824
+#: ../admin/class-fw-so-row-widget-style.php:871
+#: ../admin/class-fw-so-row-widget-style.php:934
+msgid " "
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:55
+#: ../admin/class-fw-so-row-widget-style.php:756
+msgid "Cover"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:56
+#: ../admin/class-fw-so-row-widget-style.php:757
+msgid "Contain"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:57
+#: ../admin/class-fw-so-row-widget-style.php:758
+msgid "Auto"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:58
+#: ../admin/class-fw-so-row-widget-style.php:759
+msgid "Inherit"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:64
+#: ../admin/class-fw-so-row-widget-style.php:765
+msgid "Background Position"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:69
+#: ../admin/class-fw-so-row-widget-style.php:770
+msgid "Center Top"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:70
+#: ../admin/class-fw-so-row-widget-style.php:771
+msgid "Center Center"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:71
+#: ../admin/class-fw-so-row-widget-style.php:772
+msgid "Center Bottom"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:72
+#: ../admin/class-fw-so-row-widget-style.php:773
+msgid "Left Top"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:73
+#: ../admin/class-fw-so-row-widget-style.php:774
+msgid "Left Center"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:74
+#: ../admin/class-fw-so-row-widget-style.php:775
+msgid "Left Bottom"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:75
+#: ../admin/class-fw-so-row-widget-style.php:776
+msgid "Right Top"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:76
+#: ../admin/class-fw-so-row-widget-style.php:777
+msgid "Right Center"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:77
+#: ../admin/class-fw-so-row-widget-style.php:778
+msgid "Right Bottom"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:83
+#: ../admin/class-fw-so-row-widget-style.php:784
+msgid "Background  Attachment"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:88
+#: ../admin/class-fw-so-row-widget-style.php:789
+msgid "Scroll"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:89
+#: ../admin/class-fw-so-row-widget-style.php:790
+msgid "Fixed"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:103
+#: ../admin/class-fw-so-row-widget-style.php:804
+msgid "Heading Font Family"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:107
+#: ../admin/class-fw-so-row-widget-style.php:808
+msgid "Heading Font family of text inside this widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:112
+#: ../admin/class-fw-so-row-widget-style.php:812
+msgid "Heading Font Color"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:115
+msgid "Heading Color of text inside this widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:120
+#: ../admin/class-fw-so-row-widget-style.php:820
+msgid "Heading Text Align"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:125
+#: ../admin/class-fw-so-row-widget-style.php:171
+#: ../admin/class-fw-so-row-widget-style.php:694
+#: ../admin/class-fw-so-row-widget-style.php:825
+#: ../admin/class-fw-so-row-widget-style.php:872
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:38
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:92
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:49
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:61
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:38
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:245
+msgid "Default"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:126
+#: ../admin/class-fw-so-row-widget-style.php:172
+#: ../admin/class-fw-so-row-widget-style.php:826
+#: ../admin/class-fw-so-row-widget-style.php:873
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:140
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:45
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:77
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:135
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:89
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:62
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:70
+#: ../admin/post-types/class-fw-flexslider.php:209
+msgid "Left"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:127
+#: ../admin/class-fw-so-row-widget-style.php:173
+#: ../admin/class-fw-so-row-widget-style.php:827
+#: ../admin/class-fw-so-row-widget-style.php:874
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:142
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:60
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:76
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:134
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:64
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:72
+#: ../admin/post-types/class-fw-flexslider.php:211
+msgid "Center"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:128
+#: ../admin/class-fw-so-row-widget-style.php:174
+#: ../admin/class-fw-so-row-widget-style.php:828
+#: ../admin/class-fw-so-row-widget-style.php:875
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:141
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:43
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:78
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:136
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:90
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:63
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:71
+#: ../admin/post-types/class-fw-flexslider.php:210
+msgid "Right"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:129
+#: ../admin/class-fw-so-row-widget-style.php:175
+#: ../admin/class-fw-so-row-widget-style.php:829
+#: ../admin/class-fw-so-row-widget-style.php:876
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:143
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:79
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:137
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:73
+#: ../admin/post-types/class-fw-flexslider.php:212
+msgid "Justify"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:136
+#: ../admin/class-fw-so-row-widget-style.php:837
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:140
+#: ../admin/class-fw-so-row-widget-style.php:841
+msgid "Font family of text inside this widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:145
+#: ../admin/class-fw-so-row-widget-style.php:845
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:148
+msgid "Color of text inside this widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:152
+#: ../admin/class-fw-so-row-widget-style.php:853
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:69
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:127
+#: ../admin/widgets/gx-google-font-widget/gx-google-font-widget.php:39
+msgid "Font Size"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:159
+#: ../admin/class-fw-so-row-widget-style.php:860
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:84
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:142
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:166
+#: ../admin/class-fw-so-row-widget-style.php:867
+msgid "Text Align"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:183
+#: ../admin/class-fw-so-row-widget-style.php:884
+msgid "Links Color"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:186
+msgid "Color of links inside this widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:190
+#: ../admin/class-fw-so-row-widget-style.php:891
+msgid "Links Hover Color"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:193
+msgid "Links hover color inside this widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:197
+#: ../admin/class-fw-so-row-widget-style.php:898
+msgid "Text Decoration"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:203
+#: ../admin/class-fw-so-row-widget-style.php:904
+msgid "Underline"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:204
+#: ../admin/class-fw-so-row-widget-style.php:905
+msgid "Overline"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:205
+#: ../admin/class-fw-so-row-widget-style.php:906
+msgid "Line through"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:213
+#: ../admin/class-fw-so-row-widget-style.php:914
+msgid "Border Color"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:216
+msgid "Border color of the widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:221
+#: ../admin/class-fw-so-row-widget-style.php:922
+msgid "Border Width"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:229
+#: ../admin/class-fw-so-row-widget-style.php:930
+msgid "Border Style"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:234
+#: ../admin/class-fw-so-row-widget-style.php:935
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:39
+msgid "Solid"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:235
+#: ../admin/class-fw-so-row-widget-style.php:936
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:41
+msgid "Dashed"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:236
+#: ../admin/class-fw-so-row-widget-style.php:937
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:40
+msgid "Dotted"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:237
+#: ../admin/class-fw-so-row-widget-style.php:938
+msgid "Double"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:244
+#: ../admin/class-fw-so-row-widget-style.php:945
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:148
+msgid "Margin"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:247
+#, php-format
+msgid ""
+"Margin around the entire Widget. Margin Bottom Default is %spx.(Space below "
+"the row.)"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:253
+#: ../admin/class-fw-so-row-widget-style.php:953
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:126
+msgid "Padding"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:256
+msgid "Padding around the entire widget."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:264
+msgid "Additional CSS Class"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:267
+msgid "Add additional CSS class(es) for custom styling"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:273
+#: ../admin/class-fw-so-row-widget-style.php:972
+msgid " --- Default --- "
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:274
+#: ../admin/class-fw-so-row-widget-style.php:291
+#: ../admin/class-fw-so-row-widget-style.php:973
+#: ../admin/class-fw-so-row-widget-style.php:990
+msgid "fadeInUpBig-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:275
+#: ../admin/class-fw-so-row-widget-style.php:974
+msgid "bigEntrance-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:276
+#: ../admin/class-fw-so-row-widget-style.php:975
+msgid "boingInUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:277
+#: ../admin/class-fw-so-row-widget-style.php:976
+msgid "bounce-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:278
+#: ../admin/class-fw-so-row-widget-style.php:977
+msgid "bounceInLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:279
+#: ../admin/class-fw-so-row-widget-style.php:978
+msgid "bounceInRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:280
+#: ../admin/class-fw-so-row-widget-style.php:979
+msgid "bounceInUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:281
+#: ../admin/class-fw-so-row-widget-style.php:980
+msgid "expandUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:282
+#: ../admin/class-fw-so-row-widget-style.php:981
+msgid "fade-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:283
+#: ../admin/class-fw-so-row-widget-style.php:982
+msgid "fadeIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:284
+#: ../admin/class-fw-so-row-widget-style.php:983
+msgid "fadeInDown-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:285
+#: ../admin/class-fw-so-row-widget-style.php:984
+msgid "fadeInDownBig-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:286
+#: ../admin/class-fw-so-row-widget-style.php:985
+msgid "fadeInLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:287
+#: ../admin/class-fw-so-row-widget-style.php:986
+msgid "fadeInLeftBig-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:288
+#: ../admin/class-fw-so-row-widget-style.php:987
+msgid "fadeInRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:289
+#: ../admin/class-fw-so-row-widget-style.php:988
+msgid "fadeInRightBig-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:290
+#: ../admin/class-fw-so-row-widget-style.php:989
+msgid "fadeInUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:292
+#: ../admin/class-fw-so-row-widget-style.php:991
+msgid "flip-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:293
+#: ../admin/class-fw-so-row-widget-style.php:992
+msgid "flipInX-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:294
+#: ../admin/class-fw-so-row-widget-style.php:993
+msgid "flipInY-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:295
+#: ../admin/class-fw-so-row-widget-style.php:994
+msgid "floating-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:296
+#: ../admin/class-fw-so-row-widget-style.php:995
+msgid "foolishIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:297
+#: ../admin/class-fw-so-row-widget-style.php:996
+msgid "hatch-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:298
+#: ../admin/class-fw-so-row-widget-style.php:997
+msgid "lightSpeedIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:299
+#: ../admin/class-fw-so-row-widget-style.php:998
+msgid "puffIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:300
+#: ../admin/class-fw-so-row-widget-style.php:999
+msgid "pullDown-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:301
+#: ../admin/class-fw-so-row-widget-style.php:1000
+msgid "pullUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:302
+#: ../admin/class-fw-so-row-widget-style.php:1001
+msgid "pulse-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:303
+#: ../admin/class-fw-so-row-widget-style.php:1002
+msgid "rollInLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:304
+#: ../admin/class-fw-so-row-widget-style.php:1003
+msgid "rollInRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:305
+#: ../admin/class-fw-so-row-widget-style.php:1004
+msgid "rotateIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:306
+#: ../admin/class-fw-so-row-widget-style.php:1005
+msgid "rotateInDownLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:307
+#: ../admin/class-fw-so-row-widget-style.php:1006
+msgid "rotateInDownRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:308
+#: ../admin/class-fw-so-row-widget-style.php:1007
+msgid "rotateInUpLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:309
+#: ../admin/class-fw-so-row-widget-style.php:1008
+msgid "rotateInUpRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:310
+#: ../admin/class-fw-so-row-widget-style.php:1009
+msgid "scale-down-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:311
+#: ../admin/class-fw-so-row-widget-style.php:1010
+msgid "scale-up-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:312
+#: ../admin/class-fw-so-row-widget-style.php:1011
+msgid "slide-bottom-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:313
+#: ../admin/class-fw-so-row-widget-style.php:1012
+msgid "slide-left-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:314
+#: ../admin/class-fw-so-row-widget-style.php:1013
+msgid "slide-right-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:315
+#: ../admin/class-fw-so-row-widget-style.php:1014
+msgid "slide-top-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:316
+#: ../admin/class-fw-so-row-widget-style.php:1015
+msgid "slideDown-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:317
+#: ../admin/class-fw-so-row-widget-style.php:1016
+msgid "slideExpandUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:318
+#: ../admin/class-fw-so-row-widget-style.php:1017
+msgid "slideInDown-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:319
+#: ../admin/class-fw-so-row-widget-style.php:1018
+msgid "bouslideInLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:320
+#: ../admin/class-fw-so-row-widget-style.php:1019
+msgid "slideInRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:321
+#: ../admin/class-fw-so-row-widget-style.php:1020
+msgid "slideLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:322
+#: ../admin/class-fw-so-row-widget-style.php:1021
+msgid "slideRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:323
+#: ../admin/class-fw-so-row-widget-style.php:1022
+msgid "slideUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:324
+#: ../admin/class-fw-so-row-widget-style.php:1023
+msgid "spaceInDown-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:325
+#: ../admin/class-fw-so-row-widget-style.php:1024
+msgid "spaceInLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:326
+#: ../admin/class-fw-so-row-widget-style.php:1025
+msgid "spaceInRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:327
+#: ../admin/class-fw-so-row-widget-style.php:1026
+msgid "spaceInUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:328
+#: ../admin/class-fw-so-row-widget-style.php:1027
+msgid "stretchLeft-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:329
+#: ../admin/class-fw-so-row-widget-style.php:1028
+msgid "stretchRight-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:330
+#: ../admin/class-fw-so-row-widget-style.php:1029
+msgid "swap-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:331
+#: ../admin/class-fw-so-row-widget-style.php:1030
+msgid "swashIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:332
+#: ../admin/class-fw-so-row-widget-style.php:1031
+msgid "swing-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:333
+#: ../admin/class-fw-so-row-widget-style.php:1032
+msgid "tinDownIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:334
+#: ../admin/class-fw-so-row-widget-style.php:1033
+msgid "tinRightIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:335
+#: ../admin/class-fw-so-row-widget-style.php:1034
+msgid "tinUpIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:336
+#: ../admin/class-fw-so-row-widget-style.php:1035
+msgid "tossing-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:337
+#: ../admin/class-fw-so-row-widget-style.php:1036
+msgid "twisterInDown-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:338
+#: ../admin/class-fw-so-row-widget-style.php:1037
+msgid "twisterInUp-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:339
+#: ../admin/class-fw-so-row-widget-style.php:1038
+msgid "wobble-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:340
+#: ../admin/class-fw-so-row-widget-style.php:1039
+msgid "zoomIn-animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:343
+#: ../admin/class-fw-so-row-widget-style.php:1042
+msgid "Animation Class"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:352
+#: ../admin/class-fw-so-row-widget-style.php:1058
+msgid "CSS Styles"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:355
+#: ../admin/class-fw-so-row-widget-style.php:1061
+msgid "One style attribute per line."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:507
+#: ../admin/class-fw-so-row-widget-style.php:1218
+msgid "Background"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:511
+#: ../admin/class-fw-so-row-widget-style.php:1222
+msgid "Heading Font"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:515
+#: ../admin/class-fw-so-row-widget-style.php:1226
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:64
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:122
+msgid "Font"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:519
+#: ../admin/class-fw-so-row-widget-style.php:1230
+msgid "Link"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:523
+#: ../admin/class-fw-so-row-widget-style.php:1234
+msgid "Box Model"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:527
+#: ../admin/class-fw-so-row-widget-style.php:1238
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:51
+msgid "Border"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:531
+#: ../admin/class-fw-so-row-widget-style.php:1214
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:535
+#: ../admin/class-fw-so-row-widget-style.php:1242
+msgid "Animation"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:539
+#: ../admin/class-fw-so-row-widget-style.php:1246
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:678
+#: ../admin/class-fw-so-row-widget-style.php:1210
+msgid "Row Layout"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:682
+msgid "Standard"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:683
+#: ../admin/class-fw-admin.php:143 ../admin/class-fw-admin.php:225
+msgid "Full Width"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:684
+msgid "Full Width Stretched"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:690
+msgid "Collapse Order"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:695
+msgid "Left on Top"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:696
+msgid "Right on Top"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:698
+msgid "Collapse order of cells in Responsive mode"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:703
+msgid "Row Class"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:706
+msgid "A CSS class"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:711
+msgid "Row Anchor"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:714
+msgid ""
+"Example: enter &lsquo;about&rsquo; as row anchor and add &lsquo;"
+"#about&rsquo; link in navigation menu. When link is clicked, it will scroll "
+"to this row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:723
+msgid "Background color of the Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:731
+msgid "Background image of the Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:815
+msgid "Heading Color of text inside this Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:848
+msgid "Color of text inside this Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:887
+msgid "Color of links inside this Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:894
+msgid "Links hover color inside this Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:917
+msgid "Border color of the Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:948
+#, php-format
+msgid ""
+"Margin around the entire Row. Margin Bottom Default is %spx.(Space below the "
+"row.)"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:956
+msgid "Padding around the entire Row."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:962
+msgid "Gutter"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:965
+#, php-format
+msgid "Amount of space between columns. Default is %spx."
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:1050
+msgid "Cell Class"
+msgstr ""
+
+#: ../admin/class-fw-so-row-widget-style.php:1053
+msgid "Class added to all cells in this row."
+msgstr ""
+
+#: ../admin/class-fw-admin.php:140
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:56
+#: ../admin/widgets/gx-accordion-widget/gx-accordion-widget.php:49
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:54
+#: ../admin/widgets/gx-call-to-action-widget/gx-call-to-action-widget.php:39
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:49
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:46
+#: ../admin/widgets/gx-google-font-widget/gx-google-font-widget.php:43
+msgid "Content"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:144
+msgid "Half Width"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:151
+msgid "Video Type"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:154
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:266
+msgid "YouTube"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:155
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:236
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:162
+msgid "Video ID"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:168
+msgid "Project URL"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:174
+msgid "Project Link Text"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:181
+#: ../admin/post-types/class-fw-portfolio.php:20
+msgid "Project"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:188
+msgid "Layout Option"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:194
+msgid "Full Width Layout"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:201
+msgid "Answer"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:205
+msgid "FAQ Details"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:211
+msgid "Default ( One Column )"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:212
+msgid "Two Columns "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:213
+msgid "Three Columns ( Without Sidebar ) "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:214
+msgid "Two Columns With Masonry"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:215
+msgid "Three Columns With Masonry ( Without Sidebar ) "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:216
+msgid "Blog FullWidth"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:220
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:221
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:222
+msgid "Two Sidebar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:223
+msgid "Two Sidebar Left"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:224
+msgid "Two Sidebar Right"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:226
+msgid "No Sidebar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:241
+msgid "Page Options"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:246
+msgid "Sliders"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:247
+msgid " Portfolio "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:248
+msgid " Blog "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:249
+msgid " Layout "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:250
+msgid "Page Title Bar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:261
+msgid "Slider Type"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:264
+#: ../admin/post-types/class-fw-flexslider.php:15
+msgid "Flex Slider"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:265
+#: ../admin/widgets/gx-elasticslider-widget/gx-elasticslider-widget.php:20
+#: ../admin/post-types/class-fw-elastic-slider.php:15
+msgid "Elastic Slider"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:267
+msgid "Select the type of slider that displays."
+msgstr ""
+
+#: ../admin/class-fw-admin.php:272
+msgid "Select FlexSlider Type"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:275 ../admin/class-fw-admin.php:284
+msgid "Select the unique name of the slider."
+msgstr ""
+
+#: ../admin/class-fw-admin.php:281
+msgid "Select Elastic Slider Type"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:291
+msgid "Choose Portfolio Layout"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:304
+msgid "Choose Portfolio Category"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:313
+msgid "Choose Portfolio Skill"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:322
+msgid "Portfolio Count"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:330
+msgid "Enable Portfolio Masonry Layout"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:336
+msgid "Enable Portfolio Sidebar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:342
+msgid "Enable Portfolio Text"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:348
+msgid "Choose Portfolio Filter Type"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:361
+msgid "Enable Portfolio Without Gap"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:369
+msgid "Select Blog Page Layout"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:379
+msgid "Select Page Layout"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:387
+msgid "Select Sidebar 1"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:390
+msgid ""
+"Select sidebar 1 that will display on this page.( If you want more sidebar "
+"widget area You will create the sidebar under Appearance > Sidebars.  ) "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:396
+msgid "Select Sidebar 2"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:400
+msgid ""
+"Select sidebar 2 that will display on this page. Sidebar 2 can only be used "
+"if sidebar 1 is selected"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:415
+msgid "Choose Page Title Bar"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:418
+msgid "Show Bar and Content"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:419
+msgid "Hide"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:427
+msgid "Hide Page Title Bar Text"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:433
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:439
+msgid "Choose Breadcrumb Character"
+msgstr ""
+
+#: ../admin/class-fw-admin.php:442
+msgid " >> "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:443
+msgid " / "
+msgstr ""
+
+#: ../admin/class-fw-admin.php:444
+msgid " > "
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:20
+#: ../admin/post-types/class-fw-portfolio.php:67
+#: ../admin/post-types/class-fw-portfolio.php:132
+msgid "Skills"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:23
+msgid "Creates skills content section"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:35
+msgid "Skills."
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:36
+msgid "Skill item"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:45
+msgid "Skill name"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:49
+msgid "Skill icon"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:53
+msgid "Select Skill style"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:55
+msgid "Progress Bar"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:56
+msgid "Circle Bar"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:61
+msgid "Skill image"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:66
+msgid "Percentage"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:76
+msgid "CircleBar related option"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:81
+msgid "Animate - Object with time in milliseconds"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:85
+msgid "Width of the chart line in px."
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:89
+msgid "The color of the track"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:93
+msgid "The color of the curcular bar."
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:101
+msgid "Defines how the ending of the bar line looks like"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:103
+msgid "Butt"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:104
+msgid "Round"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:105
+msgid "Square"
+msgstr ""
+
+#: ../admin/widgets/gx-skills-widget/gx-skills-widget.php:111
+msgid "Rotation of the complete chart in degrees."
+msgstr ""
+
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:20
+msgid "Divider"
+msgstr ""
+
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:23
+msgid "Creates a section Divider"
+msgstr ""
+
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:35
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:35
+msgid "Type of divider"
+msgstr ""
+
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:42
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:52
+msgid "Shadow"
+msgstr ""
+
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:43
+msgid "Fancy"
+msgstr ""
+
+#: ../admin/widgets/gx-divider-widget/gx-divider-widget.php:44
+msgid "Fancy 2"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:22
+msgid "Social Network"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:25
+msgid "Social Media Button Widget"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:49
+msgid "Networks"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:50
+msgid "Network"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:60
+msgid "Select network"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:65
+msgid "URL"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:69
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:51
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:125
+msgid "Icon color"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:73
+msgid "Background color"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:79
+msgid "Design and layout"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:84
+msgid "Open in a new window"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:89
+msgid "Button theme"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:93
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:141
+msgid "Atom"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:94
+msgid "Flat"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:95
+msgid "Wire"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:100
+msgid "Use hover effects"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:105
+msgid "Icon size"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:107
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:59
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:59
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:83
+msgid "Normal"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:108
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:130
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:152
+msgid "Medium"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:109
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:84
+msgid "Large"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:110
+msgid "Extra large"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:115
+msgid "Rounding"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:119
+msgid "Slightly rounded"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:120
+msgid "Very rounded"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:121
+msgid "Completely rounded"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:129
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:151
+msgid "Low"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:131
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:153
+msgid "High"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:132
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:154
+msgid "Very high"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/gx-social-network-widget.php:137
+msgid "Align"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:5
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:20
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:11
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:20
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:17
+msgid "Google+"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:23
+msgid "RSS"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:29
+msgid "Email"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:35
+msgid "LinkedIn"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:41
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:47
+msgid "Tumblr"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:53
+msgid "Instagram"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:59
+msgid "VK"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:65
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:20
+msgid "Flickr"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:71
+msgid "Vine"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:80
+msgid "500px"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:86
+msgid "Behance"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:92
+msgid "Bitbucket"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:98
+msgid "Codepen"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:104
+msgid "Delicious"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:110
+msgid "deviantArt"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:116
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:122
+msgid "Dropbox"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:128
+msgid "Foursquare"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:134
+msgid "Github"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:140
+msgid "Gratipay"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:146
+msgid "Hacker News"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:152
+msgid "JSFiddle"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:158
+msgid "Last.fm"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:164
+msgid "Reddit"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:170
+msgid "Slack"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:176
+msgid "Slideshare"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:182
+msgid "Soundcloud"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:188
+msgid "Spotify"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:194
+msgid "Stack Exchange"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:200
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:206
+msgid "Steam"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:212
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:218
+msgid "Trello"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:224
+msgid "TripAdvisor"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:230
+msgid "Twitch"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:242
+msgid "Wordpress"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:248
+msgid "Xing"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:254
+msgid "Yahoo"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/data/networks.php:260
+msgid "Yelp"
+msgstr ""
+
+#: ../admin/widgets/gx-social-network-widget/tpl/default.php:12
+#, php-format
+msgid "%s on %s"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:20
+msgid "Alert"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:23
+msgid "Creates an alert. It can be success, error, info alerts."
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:35
+msgid "Type of alert Background"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:38
+msgid "Notice"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:39
+msgid "Warning"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:40
+msgid "Success"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:41
+msgid "Error"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:42
+msgid "Info"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:47
+msgid "Custom alert Background"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:51
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:59
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:43
+msgid "Icon fields."
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:56
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:64
+msgid "Select an icon"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:60
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:68
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:52
+msgid "Icon Color."
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:64
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:76
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:60
+msgid "Size"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:70
+msgid "Need close option?"
+msgstr ""
+
+#: ../admin/widgets/gx-alert-widget/gx-alert-widget.php:79
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:49
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:48
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:44
+msgid "Content."
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:20
+msgid "Recent Work"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:23
+msgid "Creates a recent work section with multiple option"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:39
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:35
+#: ../admin/widgets/gx-call-to-action-widget/gx-call-to-action-widget.php:35
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:39
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:35
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:35
+#: ../admin/widgets/gx-editor-widget/gx-editor-widget.php:32
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:40
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:44
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:63
+msgid "Title"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:43
+msgid "No. of Items to show"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:47
+msgid "Select Category"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:55
+msgid "Select Skill"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:61
+msgid "Select Type"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:64
+msgid "Isotope"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:65
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:61
+msgid "Carousel"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:70
+msgid "No. of columns"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:73
+msgid "Two Column"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:74
+msgid "Three Column"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:75
+msgid "Four Column"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:80
+msgid "Filter Type Menu"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:90
+msgid "Enable Masonry Layout"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-work-widget/gx-recent-work-widget.php:95
+msgid "Enable Without Gap"
+msgstr ""
+
+#: ../admin/widgets/gx-gap-widget/gx-gap-widget.php:20
+msgid "Gap"
+msgstr ""
+
+#: ../admin/widgets/gx-gap-widget/gx-gap-widget.php:23
+msgid "Creates a gap between sections (between 2 widgets/rows)"
+msgstr ""
+
+#: ../admin/widgets/gx-gap-widget/gx-gap-widget.php:35
+msgid "Gap between sections(between 2 widgets/rows)"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:20
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:35
+msgid "Testimonial"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:23
+msgid "Creates an testimonial section"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:36
+msgid "Testimonial item"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:45
+msgid "Testimonial content"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:50
+msgid "Client name"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:54
+msgid "Client image"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:55
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:45
+msgid "Choose image"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:56
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:46
+msgid "Set image"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:61
+msgid "Company name"
+msgstr ""
+
+#: ../admin/widgets/gx-testimonial-widget/gx-testimonial-widget.php:65
+msgid "Website"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:20
+msgid "List"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:23
+msgid "Creates list content section"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:35
+msgid "Title of the list"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:39
+msgid "List (start each line with *)"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:43
+msgid "List icon"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:47
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:129
+msgid "Icon Size"
+msgstr ""
+
+#: ../admin/widgets/gx-list-widget/gx-list-widget.php:56
+msgid "List image"
+msgstr ""
+
+#: ../admin/widgets/gx-elasticslider-widget/gx-elasticslider-widget.php:23
+msgid "Creates an elastic slider section."
+msgstr ""
+
+#: ../admin/widgets/gx-elasticslider-widget/gx-elasticslider-widget.php:35
+msgid "Select slider group"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:22
+msgid "Team Member"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:25
+msgid "Creates a team member content"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:36
+msgid "Name of team member."
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:40
+msgid "Designation of team member."
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:44
+msgid "Picture of team member."
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:52
+msgid "Linkable Image"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:61
+msgid "Add a social site"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:62
+msgid "Social Site"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:66
+msgid "Social Site name"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:70
+msgid "Choose site icon"
+msgstr ""
+
+#: ../admin/widgets/gx-team-member-widget/gx-team-member-widget.php:74
+msgid "Enter your profile URL"
+msgstr ""
+
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:20
+msgid "Tabs"
+msgstr ""
+
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:23
+msgid "Creates tabbed content section"
+msgstr ""
+
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:35
+msgid "Tabs."
+msgstr ""
+
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:36
+msgid "Tab item"
+msgstr ""
+
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:45
+#: ../admin/widgets/gx-accordion-widget/gx-accordion-widget.php:45
+msgid "A text field in a repeater item."
+msgstr ""
+
+#: ../admin/widgets/gx-tabs-widget/gx-tabs-widget.php:56
+msgid "Tabs alignment"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:23
+msgid "Creates an twitter.The most recent tweet"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:36
+msgid "Recent Tweets"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:40
+msgid "Twitter Username"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:44
+msgid "Twitter Widget ID"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:48
+msgid "Number of Tweet"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:53
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:44
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:106
+msgid "Width"
+msgstr ""
+
+#: ../admin/widgets/gx-twitter-widget/gx-twitter-widget.php:58
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:49
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:111
+msgid "Height"
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:23
+msgid "Creates an flickr.The most recent photos from flickr"
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:35
+msgid "Title."
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:36
+msgid "Photos from Flickr"
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:40
+msgid "Flickrs ID"
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:41
+#, php-format
+msgid "%sGet your flickr ID%s: "
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:45
+msgid "Number of photos to show:"
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:50
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:64
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:69
+msgid "API key"
+msgstr ""
+
+#: ../admin/widgets/gx-flickr-widget/gx-flickr-widget.php:52
+#, php-format
+msgid ""
+"Use default key (c9d2c2fda03a2ff487cb4769dc0781ea) or get your own from "
+"%sFlickr APP Garden%s: "
+msgstr ""
+
+#: ../admin/widgets/gx-accordion-widget/gx-accordion-widget.php:20
+#: ../admin/widgets/gx-accordion-widget/gx-accordion-widget.php:35
+msgid "Accordion"
+msgstr ""
+
+#: ../admin/widgets/gx-accordion-widget/gx-accordion-widget.php:23
+msgid "Creates accordion content section"
+msgstr ""
+
+#: ../admin/widgets/gx-accordion-widget/gx-accordion-widget.php:36
+msgid "Accordion item"
+msgstr ""
+
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:20
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:35
+msgid "Tooltip"
+msgstr ""
+
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:23
+msgid "Creates a content section with tooltip."
+msgstr ""
+
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:39
+msgid "Tooltip position"
+msgstr ""
+
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:42
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:88
+msgid "Top"
+msgstr ""
+
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:44
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/widgets/gx-tooltip-widget/gx-tooltip-widget.php:50
+msgid "Tooltip Content"
+msgstr ""
+
+#: ../admin/widgets/gx-call-to-action-widget/gx-call-to-action-widget.php:20
+msgid "Call To Action"
+msgstr ""
+
+#: ../admin/widgets/gx-call-to-action-widget/gx-call-to-action-widget.php:23
+msgid "Creates a Call To Action section"
+msgstr ""
+
+#: ../admin/widgets/gx-call-to-action-widget/gx-call-to-action-widget.php:44
+msgid "Call To Action text"
+msgstr ""
+
+#: ../admin/widgets/gx-call-to-action-widget/gx-call-to-action-widget.php:48
+msgid "Target URL"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:23
+msgid "Display Recent Post as Slider, Carousel"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:43
+msgid "Recent Post Count"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:48
+msgid "Select category"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:50
+msgid "Select Multiple Category Field"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:56
+msgid "Recent Post Type"
+msgstr ""
+
+#: ../admin/widgets/gx-recent-posts-widget/gx-recent-posts-widget.php:60
+msgid "Slider"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:20
+msgid "Quote"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:23
+msgid "Creates stylish quotes"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:35
+msgid "Quote Alignment"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:38
+msgid "Normal Blockquote"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:39
+msgid "Pull Left"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:40
+msgid "Pull Right"
+msgstr ""
+
+#: ../admin/widgets/gx-quote-widget/gx-quote-widget.php:45
+msgid "Quote Content"
+msgstr ""
+
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:23
+msgid "Creates an facebook.The most recent Facebook Share"
+msgstr ""
+
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:36
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../admin/widgets/gx-facebook-widget/gx-facebook-widget.php:40
+msgid "Facebook Username"
+msgstr ""
+
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:20
+msgid "Toggle"
+msgstr ""
+
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:23
+msgid "Creates a content section that can toggle visibility."
+msgstr ""
+
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:39
+msgid "Default state of toggle"
+msgstr ""
+
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:42
+msgid "Open"
+msgstr ""
+
+#: ../admin/widgets/gx-toggle-widget/gx-toggle-widget.php:43
+msgid "Close"
+msgstr ""
+
+#: ../admin/widgets/gx-editor-widget/gx-editor-widget.php:17
+msgid "Genex Editor"
+msgstr ""
+
+#: ../admin/widgets/gx-editor-widget/gx-editor-widget.php:19
+msgid "A rich-text, text editor."
+msgstr ""
+
+#: ../admin/widgets/gx-editor-widget/gx-editor-widget.php:41
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../admin/widgets/gx-faq-widget/gx-faq-widget.php:20
+msgid "Faq"
+msgstr ""
+
+#: ../admin/widgets/gx-faq-widget/gx-faq-widget.php:23
+msgid "Creates an faq section."
+msgstr ""
+
+#: ../admin/widgets/gx-faq-widget/gx-faq-widget.php:39
+msgid "Select faq group"
+msgstr ""
+
+#: ../admin/widgets/gx-faq-widget/gx-faq-widget.php:44
+msgid "FAQs to show?"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:20
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:37
+msgid "Heading"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:23
+msgid "Create Heading Widget"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:42
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:100
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:113
+msgid "Text"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:46
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:104
+msgid "HTML Tag"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:49
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:107
+msgid "H1"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:50
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:108
+msgid "H2"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:51
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:109
+msgid "H3"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:52
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:110
+msgid "H4"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:53
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:111
+msgid "H5"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:54
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:112
+msgid "H6"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:55
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:113
+msgid "Paragraph"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:60
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:118
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:323
+msgid "Color"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:73
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:131
+msgid "Alignment"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:88
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:146
+msgid "Top and Bottom Margin"
+msgstr ""
+
+#: ../admin/widgets/gx-heading-widget/gx-heading-widget.php:95
+msgid "Sub headline"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:20
+msgid "Icon Box"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:23
+msgid "Creates an Icon Box that displays Icons and Text."
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:35
+msgid "Content fields."
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:49
+msgid "Read More Text"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:53
+msgid "Read More URL"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:72
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:56
+msgid "Icon Background."
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:80
+msgid "Icon image"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:85
+msgid "Icon Position"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:97
+msgid "Options"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:102
+msgid "Link title and icon to \"More URL\""
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/gx-icon-box-widget.php:106
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:93
+msgid "Open in new window?"
+msgstr ""
+
+#: ../admin/widgets/gx-icon-box-widget/tpl/default.php:45
+msgid "More Info"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:15
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:72
+#: ../admin/post-types/class-fw-flexslider.php:99
+#: ../admin/post-types/class-fw-flexslider.php:113
+#: ../admin/post-types/class-fw-elastic-slider.php:69
+msgid "Image"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:17
+msgid "A simple image widget"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:34
+msgid "Image file"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:41
+msgid "Image size"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:46
+msgid "Image Type"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:50
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:39
+msgid "Circle"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:58
+msgid "Image alignment"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:70
+msgid "Title text"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:75
+msgid "Title position"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:78
+msgid "Hidden"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:79
+msgid "Above"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:80
+msgid "Below"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:86
+msgid "Alt text"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:91
+msgid "Destination URL"
+msgstr ""
+
+#: ../admin/widgets/gx-image-widget/gx-image-widget.php:96
+msgid "Open in new window"
+msgstr ""
+
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:20
+msgid "Dropcap"
+msgstr ""
+
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:23
+msgid "Creates a section with Dropcap"
+msgstr ""
+
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:40
+msgid "Box"
+msgstr ""
+
+#: ../admin/widgets/gx-dropcap-widget/gx-dropcap-widget.php:41
+msgid "Book"
+msgstr ""
+
+#: ../admin/widgets/gx-flexslider-widget/gx-flexslider-widget.php:22
+msgid "Flexslider"
+msgstr ""
+
+#: ../admin/widgets/gx-flexslider-widget/gx-flexslider-widget.php:25
+msgid "Creates an flexslider section."
+msgstr ""
+
+#: ../admin/widgets/gx-flexslider-widget/gx-flexslider-widget.php:36
+msgid "Select slider"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:20
+msgid "Google Maps"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:23
+msgid "Google Map Widget"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:59
+msgid "Map center"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:60
+msgid ""
+"The name of a place, town, city, or even a country. Can be an exact address "
+"too."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:72
+#, php-format
+msgid ""
+"Enter your %sAPI key%s. Your map may not function correctly without one."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:81
+msgid "Settings"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:83
+msgid "Set map display options."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:88
+msgid "Map type"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:94
+msgid "Interactive"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:95
+msgid "Static image"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:115
+msgid "Zoom level"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:116
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:130
+msgid "Scroll to zoom"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:131
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:140
+msgid "Draggable"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:141
+msgid "Allow dragging the map to move it around."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:150
+msgid "Disable default UI"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:151
+msgid "Hides the default Google Maps controls."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:160
+msgid "Keep map centered"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:161
+msgid "Keeps the map centered when it's container is resized."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:167
+msgid "Markers"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:169
+msgid "Use markers to identify points of interest on the map."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:174
+msgid "Show marker at map center"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:179
+msgid "Marker icon"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:180
+msgid "Replaces the default map marker with your own image."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:189
+msgid "Draggable markers"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:193
+msgid "Marker positions"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:194
+msgid ""
+"Please be aware that adding more than 10 markers may cause a slight delay "
+"before they appear, due to Google Geocoding API rate limits."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:195
+msgid "Marker"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:205
+msgid "Place"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:210
+msgid "Info Window Content"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:214
+msgid "Info Window max width"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:220
+msgid "When should Info Windows be displayed?"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:223
+msgid "Click"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:224
+msgid "Mouse over"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:225
+msgid "Always"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:232
+msgid "Styles"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:234
+msgid "Apply custom colors to map features, or hide them completely."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:239
+msgid "Map styles"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:246
+msgid "Custom"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:247
+msgid "Predefined Styles"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:256
+msgid "Styled map name"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:266
+msgid "Raw JSON styles"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:267
+msgid ""
+"Copy and paste predefined styles here from <a href=\"http://snazzymaps.com/"
+"\" target=\"_blank\">Snazzy Maps</a>."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:275
+msgid "Custom map styles"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:276
+msgid "Style"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:286
+msgid "Select map feature to style"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:288
+msgid "Water"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:289
+msgid "Highways"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:290
+msgid "Arterial roads"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:291
+msgid "Local roads"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:292
+msgid "Transit lines"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:293
+msgid "Transit stations"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:294
+msgid "Man-made landscape"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:295
+msgid "Natural landscape landcover"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:296
+msgid "Natural landscape terrain"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:297
+msgid "Point of interest - Attractions"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:298
+msgid "Point of interest - Business"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:299
+msgid "Point of interest - Government"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:300
+msgid "Point of interest - Medical"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:301
+msgid "Point of interest - Parks"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:302
+msgid "Point of interest - Places of worship"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:303
+msgid "Point of interest - Schools"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:304
+msgid "Point of interest - Sports complexes"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:309
+msgid "Select element type to style"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:311
+msgid "Geometry"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:312
+msgid "Labels"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:319
+msgid "Visible"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:331
+msgid "Directions"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:337
+msgid ""
+"Display a route on your map, with waypoints between your starting point and "
+"destination."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:341
+msgid "Starting point"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:345
+msgid "Destination"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:349
+msgid "Travel mode"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:352
+msgid "Driving"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:353
+msgid "Walking"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:354
+msgid "Bicycling"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:355
+msgid "Transit"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:360
+msgid "Avoid highways"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:364
+msgid "Avoid tolls"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:368
+msgid "Waypoints"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:369
+msgid "Waypoint"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:379
+#: ../admin/post-types/class-fw-flexslider.php:128
+msgid "Location"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:384
+msgid "Stopover"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:385
+msgid "Whether or not this is a stop on the route or just a route preference."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:391
+msgid "Optimize waypoints"
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:393
+msgid ""
+"Allow the Google Maps service to reorder waypoints for the shortest "
+"travelling distance."
+msgstr ""
+
+#: ../admin/widgets/gx-google-map-widget/gx-google-map-widget.php:498
+msgid "Custom Map"
+msgstr ""
+
+#: ../admin/widgets/gx-google-font-widget/gx-google-font-widget.php:20
+msgid "Google Font"
+msgstr ""
+
+#: ../admin/widgets/gx-google-font-widget/gx-google-font-widget.php:23
+msgid "Creates content section with Google Font"
+msgstr ""
+
+#: ../admin/widgets/gx-google-font-widget/gx-google-font-widget.php:35
+msgid "Select Google Font to use"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:14
+msgid "Price Table"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:16
+msgid "A simple Price Table."
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:49
+msgid "Columns"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:50
+msgid "Column"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:59
+msgid "Featured"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:67
+msgid "Subtitle"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:77
+msgid "Image title"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:82
+msgid "Image alt text"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:87
+msgid "Price"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:91
+msgid "Per"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:95
+msgid "Button text"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:99
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:39
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:103
+msgid "Features"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:104
+msgid "Feature"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:117
+msgid "Hover text"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:121
+msgid "Icon"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:138
+msgid "Price table theme"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:140
+msgid "Theme Style"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:147
+msgid "Header color"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:152
+msgid "Featured header color"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:157
+msgid "Button color"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:162
+msgid "Featured button color"
+msgstr ""
+
+#: ../admin/widgets/gx-price-table-widget/gx-price-table-widget.php:167
+msgid "Open Button URL in a new window"
+msgstr ""
+
+#: ../admin/widgets/gx-embed-widget/gx-embed-widget.php:20
+msgid "Embed"
+msgstr ""
+
+#: ../admin/widgets/gx-embed-widget/gx-embed-widget.php:23
+msgid "Creates embedded Audio, Video section"
+msgstr ""
+
+#: ../admin/widgets/gx-embed-widget/gx-embed-widget.php:35
+msgid "Url of Audio (or) Video"
+msgstr ""
+
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:20
+msgid "Stats"
+msgstr ""
+
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:23
+msgid "Creates stats content section"
+msgstr ""
+
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:35
+msgid "Stat name"
+msgstr ""
+
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:39
+msgid "Stat"
+msgstr ""
+
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:48
+msgid "Stat icon"
+msgstr ""
+
+#: ../admin/widgets/gx-stats-widget/gx-stats-widget.php:66
+msgid "Stat image"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:20
+msgid "Button"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:23
+msgid "Creates buttons of all types and colors"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:35
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:44
+msgid "Button Colors."
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:49
+msgid "Button background"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:57
+msgid "Button text color"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:68
+msgid "Button Alignment"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:78
+msgid "Button Size"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:81
+msgid "Mini"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:82
+msgid "Small"
+msgstr ""
+
+#: ../admin/widgets/gx-button-widget/gx-button-widget.php:89
+msgid "Button border radius"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:21
+msgid "FAQs"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:22
+msgid "FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:23
+#: ../admin/post-types/class-fw-faq.php:24
+msgid "Add New FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:25
+msgid "Edit FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:26
+msgid "New FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:27
+msgid "All FAQs"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:28
+msgid "View FAQ"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:29
+msgid "Search FAQs"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:30
+msgid "No FAQs Found"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:31
+msgid "No FAQs Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:48
+msgctxt "taxonomy general name"
+msgid "FAQ Groups"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:49
+msgctxt "taxonomy singular name"
+msgid "FAQ Group"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:50
+msgid "Search FAQ Groups"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:51
+msgid "All FAQ Groups"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:52
+msgid "Parent FAQ Group"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:53
+msgid "Parent FAQ Group:"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:54
+msgid "Edit FAQ Group"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:55
+msgid "Update FAQ Group"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:56
+msgid "Add New FAQ Group"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:57
+msgid "New FAQ Group Name"
+msgstr ""
+
+#: ../admin/post-types/class-fw-faq.php:58
+msgid "FAQ Groups"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:19
+msgid "Projects"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:21
+#: ../admin/post-types/class-fw-portfolio.php:22
+msgid "Add New Project"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:23
+msgid "Edit Project"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:24
+msgid "New Project"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:25
+msgid "All Projects"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:26
+msgid "View Project"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:27
+msgid "Search Projects"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:28
+msgid "No Projects Found"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:29
+msgid "No Projects Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:57
+msgctxt "taxonomy general name"
+msgid "Skills"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:58
+msgctxt "taxonomy singular name"
+msgid "Skill"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:59
+msgid "Search Skills"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:60
+msgid "All Skills"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:61
+msgid "Parent Skill"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:62
+msgid "Parent Skill:"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:63
+msgid "Edit Skill"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:64
+msgid "Update Skill"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:65
+msgid "Add New Skill"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:66
+msgid "New Skill Name"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:85
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:86
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:87
+msgid "Search Categories"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:88
+msgid "All Categories"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:89
+msgid "Parent Category"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:90
+msgid "Parent Category:"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:91
+msgid "Edit Category"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:92
+msgid "Update Category"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:93
+msgid "Add New Category"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:94
+msgid "New Category Name"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:95
+msgid "Categories"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:129
+msgid "Skill"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:130
+#: ../admin/post-types/class-fw-flexslider.php:82
+#: ../admin/post-types/class-fw-elastic-slider.php:55
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:131
+msgid "Category"
+msgstr ""
+
+#: ../admin/post-types/class-fw-portfolio.php:133
+#: ../admin/post-types/class-fw-flexslider.php:84
+#: ../admin/post-types/class-fw-elastic-slider.php:57
+msgid "Date"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:14
+msgid "Flex Sliders"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:16
+#: ../admin/post-types/class-fw-flexslider.php:17
+#: ../admin/post-types/class-fw-elastic-slider.php:16
+#: ../admin/post-types/class-fw-elastic-slider.php:17
+msgid "Add New Slide"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:18
+#: ../admin/post-types/class-fw-elastic-slider.php:18
+msgid "Edit Slide"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:19
+#: ../admin/post-types/class-fw-elastic-slider.php:19
+msgid "New Slide"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:20
+#: ../admin/post-types/class-fw-elastic-slider.php:20
+msgid "All Slides"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:21
+#: ../admin/post-types/class-fw-elastic-slider.php:21
+msgid "View Slide"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:22
+#: ../admin/post-types/class-fw-elastic-slider.php:22
+msgid "Search Slides"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:23
+#: ../admin/post-types/class-fw-elastic-slider.php:23
+msgid "No Slides Found"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:24
+#: ../admin/post-types/class-fw-elastic-slider.php:24
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:81
+msgid "Slide Name"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:83
+#: ../admin/post-types/class-fw-elastic-slider.php:56
+msgid "Slide Groups"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:96
+msgid "Type"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:100
+#: ../admin/post-types/class-fw-flexslider.php:107
+msgid "Video"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:101
+msgid "Google Map"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:121
+msgid "Address"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:123
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:139
+msgid "Caption"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:163
+#: ../admin/post-types/class-fw-flexslider.php:267
+#: ../admin/post-types/class-fw-elastic-slider.php:54
+#: ../admin/post-types/class-fw-elastic-slider.php:89
+msgid "Slide"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:181
+msgid "Caption Settings"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:186
+msgid "Enable custom caption Settings"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:196
+msgid "Caption background color"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:201
+msgid "Caption font color"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:206
+msgid "Caption Alignment"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:218
+msgid "Background width"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:225
+msgid "Background horizontal position"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:232
+msgid "Background vertical position"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:245
+msgid "Slider Settings"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:250
+msgid " Slider "
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:251
+msgid "Slide Speed"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:252
+msgid " Prev/Next Button "
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:253
+msgid " Carousel "
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:263
+msgid "Animation effect"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:266
+msgid "Fade"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:274
+msgid "Slide Direction"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:277
+msgid "Horizontal"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:278
+msgid "Vertical"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:291
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:299
+msgid "Animation speed"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:307
+msgid "Animate slides automatically"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:314
+msgid "Smooth height"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:315
+msgid "Allow height of the slider to animate smoothly in horizontal mode"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:322
+msgid "Display previous/next buttons"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:329
+msgid "Display slideshow pagination"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:336
+msgid "Keyboard Navigation"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:343
+msgid "Mouse wheeel navigation"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:350
+msgid "Enable pause/play element"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:357
+msgid "Enable random slide order"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:364
+msgid "Enable animation loop"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:371
+msgid "Pause while using navigation"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:378
+msgid "Pause while mouse over slide"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:385
+msgid "Play button text"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:387
+msgid "Play"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:392
+msgid "Pause button text"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:394
+msgid "Pause"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:399
+msgid "Previous button text"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:401
+msgid "Previous"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:406
+msgid "Next button text"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:408
+msgid "Next"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:413
+msgid "Enable slider as a carousel"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:420
+msgid "Carousel item width"
+msgstr ""
+
+#: ../admin/post-types/class-fw-flexslider.php:428
+msgid "Carousel item margin"
+msgstr ""
+
+#: ../admin/post-types/class-fw-elastic-slider.php:14
+msgid "Elastic Sliders"
+msgstr ""
+
+#: ../admin/post-types/class-fw-elastic-slider.php:76
+msgid "Title 1"
+msgstr ""
+
+#: ../admin/post-types/class-fw-elastic-slider.php:82
+msgid "Title 2"
+msgstr ""
+
+#: ../public/template-tags.php:55
+msgid "Webulous Widgets"
+msgstr ""

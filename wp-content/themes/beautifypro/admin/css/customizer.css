@@ -1,0 +1,83 @@
+/* review link */
+.customizer-review-link {
+    text-align: center;
+    padding-top: 10px;
+}
+.customizer-review-link p {
+    font-size: 12px;
+    margin-bottom:0;
+}
+.customizer-review-link p a:hover span {   
+    color: green;
+}
+.customizer-review-link span { 
+    font-size: 12px;
+    width: 12px; 
+    color: #e6b800;
+    line-height: 19px;
+}
+
+/* save button & color custom style */
+
+.wp-core-ui .button-primary {
+	text-shadow: none;
+	box-shadow: none;
+	//border:none; 
+	color: white!important;
+}  
+.customize-control-kirki-color .wp-picker-container a.wp-color-result::after {
+    background:hsl(0, 0%, 97%) none repeat scroll 0 0!important;
+    color:hsl(0, 0%, 33%)!important;    
+    border-left: 1px solid  #cccccc !important;
+}
+.customize-control-kirki-color .wp-picker-container a.wp-color-result span { 
+        box-shadow:0 0 0 1px #cccccc !important;
+}  
+.kirki-reset-section {
+    opacity:1!important;
+    /* primary color */
+    background-color: #ffb500!important;
+}
+.kirki-reset-section:hover {
+   background-color: #212121!important;  
+}
+
+ .beautify-pro-docs {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    display: inline-block;
+    padding: 3px 9px;
+    color: white; 
+    border-radius: 4px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.doc {
+    background-color: #ffb500;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.question {
+    background-color: #242424;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;    
+}
+
+.question:hover {
+    background-color: #212121;
+    color: #ffffff;
+ }
+ .doc:hover {
+    background-color: #212121;
+    color: #ffffff;
+ }
+
+ #customize-control-color {
+    display: none!important;
+}
+#customize-control-display_header_text > label {
+  display: none;
+}

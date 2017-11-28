@@ -1,0 +1,35 @@
+.so-widget-flexslider-widget,.so-widget-recent-posts-widget {
+  @include position(relative);
+
+  .flexcarousel {
+    .flex-viewport {
+        margin: 0 80px;
+    }
+    .flex-direction-nav {  
+        a {
+          top: 0%;
+          line-height:60px;
+          opacity: 1; 
+          margin:0;   
+          background:$secondary;  
+          color:#fff;
+          height:60px;
+          width:60px;
+          &:before{
+          color:#fff;
+          }
+          &:hover{
+          background-color:$primary;
+          }
+        } 
+      .flex-prev{
+      left:-50px;
+      }
+      .flex-next{
+      right:-50px;
+      }
+    }
+
+  }
+}
+

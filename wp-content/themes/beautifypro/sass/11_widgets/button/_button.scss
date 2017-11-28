@@ -1,0 +1,36 @@
+.btn, .widget_button-widget .btn {
+  display: inline-block;
+  padding: 5px 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  z-index:1;
+  position: relative;    
+}
+
+.widget a.btn, a.btn,
+.widget_button-widget a.btn
+.widget a.btn:hover a.btn:hover,
+.widget_button-widget a.btn:hover {
+
+}
+.btn-mini,.mini {
+  padding:7px 10px;
+  font-size: 12px;
+}
+
+.btn-small,.small {
+  padding: 9px 12px;
+  font-size: 14px;
+}
+
+.btn-large,.large {
+  padding: 14px 20px;
+  font-size: 20px;
+}
+
+
+
+@import "footer";
+
+@import "sidebar";

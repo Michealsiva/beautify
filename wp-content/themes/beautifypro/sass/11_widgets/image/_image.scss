@@ -1,0 +1,50 @@
+.so-widget-image-widget {
+
+	.img-circle img {
+		border-radius: 100%;
+	}
+	.img-border img {
+       border: 3px solid $primary;
+	}
+	.img-shadow img {
+      box-shadow: 0px 0px 15px 2px rgba($secondary, 0.58)
+	}
+	.widget-title {
+        text-align:inherit;
+	}
+	img {
+	   display: block;
+	}
+}   
+ 
+/* Theme Specific Style */
+.site-content {
+	.img-right {
+	  float: right;
+		h3.widget-title::after {
+	       left: calc(100% - 125px);
+	    }
+	    h3.widget-title::before {
+	       left: calc(100% - 70px);
+	    }
+	    
+	}
+	.img-left {
+		h3.widget-title::after {
+	       left: 0px;
+	    }
+	    h3.widget-title::before {
+	       left: 50px;
+	    }
+	   
+	}
+	.img-center img {
+	    margin: 0 auto;
+	}
+	
+}
+
+
+@import "footer";
+
+@import "sidebar";

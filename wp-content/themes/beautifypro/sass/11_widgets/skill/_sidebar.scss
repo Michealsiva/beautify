@@ -1,0 +1,32 @@
+.left-sidebar {
+	.widget.widget_skill-widget {
+		.skill-container {
+			width: 100%;
+			float: none;
+			.skill {
+				margin-bottom: 20px;
+				background-color: $c3;
+				height: 15px !important;
+				background: $secondary !important;
+			}
+
+			.skill-content {
+				@include font-size(1.6);
+				margin-bottom: 10px;
+				position: relative !important;
+				top: -50px;
+				.txt-count {
+					position: relative;
+					top: -7px;
+				}
+				span {
+					padding: 0;
+					display: inline !important;
+				}
+			}
+			.skill-percentage {
+				background: $primary !important;
+			}
+		}
+	}
+}

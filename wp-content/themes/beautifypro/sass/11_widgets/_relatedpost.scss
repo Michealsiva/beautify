@@ -1,0 +1,16 @@
+.related-posts {
+	padding: 20px 0;
+	ul#webulous-related-posts {
+		list-style-type: none;
+		margin: 0;
+		li {
+			width: 18%;
+			float: left;
+			margin: 1%;
+			line-height: normal;
+			a {
+				line-height: normal;
+			}
+		}
+	}
+}

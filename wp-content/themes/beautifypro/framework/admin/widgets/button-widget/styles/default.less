@@ -1,0 +1,19 @@
+@import "../../../base/less/mixins";
+
+
+.button {  
+    a {
+        @button_background: '';
+        background-color: @button_background;  
+        @button_color:'';
+	    color: @button_color;
+        @border_radius:'';   
+	    border-radius: @border_radius;   
+	}
+	a:hover {
+	   @button_background_hover: '';
+       background-color: @button_background_hover;
+       @button_color_hover: '';
+	   color: @button_color_hover;
+	} 
+}

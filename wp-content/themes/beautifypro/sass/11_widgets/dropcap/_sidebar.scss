@@ -1,0 +1,25 @@
+.left-sidebar {
+	.dropcap-default {
+		text-shadow: 1px 1px 0 $black, 2px 2px 0 $black;
+	}
+
+	.dropcap {
+		color: $primary;
+	}
+
+	.dropcap-circle,
+	.dropcap-box {
+		background-color: $primary;
+		color: $white;
+	}
+
+	.dropcap-box {
+		border-color: $c3;
+		@include box-shadow(0,0,0,transparent);
+	}
+
+	.dropcap-book {
+		border: 2px solid $primary;
+		color: $white;
+	}
+}

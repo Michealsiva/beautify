@@ -1,0 +1,23 @@
+.site-footer {
+	.dropcap-default {
+		text-shadow: 1px 1px 0 $black, 2px 2px 0 $black;
+	}
+
+	.dropcap {
+		color: $white;
+	}
+
+	.dropcap-circle,
+	.dropcap-box {
+		background-color: $black;
+	}
+
+	.dropcap-box {
+		border-color: $secondary;
+		@include box-shadow(0,0,0,transparent);
+	}
+
+	.dropcap-book {
+		border: 2px solid $white;
+	}
+}

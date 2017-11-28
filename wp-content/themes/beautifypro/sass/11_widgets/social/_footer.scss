@@ -1,0 +1,83 @@
+.site-footer {
+.widget_social-networks-widget,
+.share-box  {
+	ul {
+		margin: 0;
+		padding: 0;
+		text-align: left;
+		margin-top: 25px;
+		li {
+			list-style: none;
+			background: none!important;	
+			margin: 0px 5px 5px 0px;
+			display: inline-block;
+			padding:0!important;
+			
+			a .fa {
+				color: $white;
+				background: $primary;
+				@include size(45px,45px);
+				display: inline-block;
+				text-align: center;
+				margin: 0;
+				border-radius: 100%;
+				position: relative;
+				overflow: visible;
+				line-height: 45px;
+				i {         
+					@include font-size(1.5);	
+				}
+				
+				&:hover {
+					background-color: $primary!important;
+					color: $white;
+				}			
+			}
+			.fa-digg {
+				background: #5C79B7!important;
+			}
+			.fa-dribbble {
+				background: #ea4c89!important;
+			}
+			.fa-facebook {
+				background: #3b5998!important;
+			}
+			.fa-flickr {
+				background: #ff0084!important;
+			}
+			.fa-google-plus{
+				background: #df4a32!important;
+			}
+			.fa-linkedin {
+				background: #0073b2!important;
+			}
+			.fa-pinterest {
+				background: #c92228!important;
+			}
+			.fa-rss {
+				background: #ff9702!important;
+			}
+			.fa-skype {
+				background: #00aff0!important;
+			}
+			.fa-tumblr {
+				background: #2c4762!important;
+			}
+			.fa-twitter {
+				background: #00acee!important;
+			}
+			.fa-vimeo-square{
+				background: #3b5998!important;
+			}
+			.fa-youtube {
+				background: #df0f32!important;
+			}
+
+
+		}
+		li:last-child {
+			margin-right: 0;
+		}
+	}
+}
+}

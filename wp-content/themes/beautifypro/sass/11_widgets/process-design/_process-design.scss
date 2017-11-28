@@ -1,0 +1,51 @@
+.so-widget-themepro-process-details-widget {
+  .design-process {
+    margin-bottom:5em;
+  }
+  .design-details {
+    float:left;
+    
+    .member-pic {
+      display:block;
+      position:relative;
+      background:$primary;
+      margin:0 auto;
+      border:1px solid;
+      border-color:$primary;
+      width:160px;
+      height:160px;
+      padding-top:65px;
+      border-radius:50%;
+      h3 {
+        font-size:18px;
+        text-align:center;
+        margin-bottom:0px;
+      }
+
+    }
+  }
+  .staff-desc {
+    display:none;
+  }
+  .design-details.active {
+      position:relative;
+      .member-pic {
+        border:1px solid $white;
+        background:transparent !important;
+      }
+      &:before {
+        position:absolute;
+        content:"";
+        border-left:1px solid $c1;
+        bottom:-5em;
+        left:50%;
+        height:5em;
+      }
+    }
+  .staff-desc.active {
+    display:block;
+    padding-top:2em;
+    border-top:1px solid $c1;
+  }
+
+}

@@ -1,0 +1,53 @@
+.mptt-shortcode-wrapper .mptt-shortcode-table tbody .mptt-event-container .timeslot {
+	margin:0.8rem 0.25rem 0.1rem;
+}
+.mptt-shortcode-row {
+	background-color: $primary;
+}
+
+
+.mptt-shortcode-wrapper .mptt-shortcode-table {
+    margin-top: 3rem;
+	tr.mptt-shortcode-row {
+		th {
+			border: none;
+			background-color: $primary;		
+			color: $white;
+			font-size: 2.1rem;
+		    font-weight: 500;
+		    padding: 0.5rem 1rem;
+		    &:nth-of-type(2n) {
+	           background-color: rgba($secondary,0.2);
+		    }
+		    &:nth-of-type(1) {
+		    	position: relative;
+		    	&:before {
+		    		content:"Time";
+		    	}
+		    }																																																																																									
+		}
+	}
+	tbody td.mptt-shortcode-hours {
+       font-weight: 600;
+       padding: 0 2.5rem !important;
+       @include font-size(1.7);
+
+	}
+}
+
+.mptt-shortcode-wrapper .mptt-navigation-tabs {
+   li a {
+   	    background: $secondary;
+	    border-radius: 5px;
+	    color: #ffffff;
+	    display: inline-block;
+	    margin-bottom: 20px;
+	    padding: 8px 25px;
+	    position: relative;
+	    text-transform: uppercase;
+   }
+   .active a {
+   	  background: $primary;
+   }
+	
+}

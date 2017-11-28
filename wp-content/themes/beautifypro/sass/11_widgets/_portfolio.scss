@@ -1,0 +1,151 @@
+ul#portfolio {
+  margin-left: 0;
+  li {
+    padding:0px;
+  }
+}
+
+.portfolio_overlay {
+  @include position(absolute);  
+  height: calc(100% - 20px);
+  width: calc(100% - 20px);      
+      
+}
+  
+
+.portfolioeffects {
+  overflow: hidden;
+   position: relative;
+  .portfolio_thumb a, .portfolio_thumb1 a {
+    position: relative;             
+    display: block;   
+    margin-top: 0px;     
+    margin-right: 0px;  
+    z-index:0;     
+          
+    img {
+      display: block; 
+      margin-bottom: 10px; 
+      margin-top:0;
+      margin-right:0;
+      margin:0;
+      width: 100%;
+
+    }
+
+  }
+
+  .content-details {
+  display: none;
+      h3 {
+        @include position(absolute, $left: 0, $bottom: 20%);
+        padding: 30px;
+        @include size(100%, auto);
+        text-align: center;
+        margin-bottom: 0;
+        color: $white;
+        @include transition-default(all,0.35s,ease);
+        text-shadow:1px 1px 1px $black;
+        a {
+          color: $white;
+          &:hover {
+            color: $primary;
+          }
+        }
+      }
+  }
+
+  .overlay_icon {
+    @include position(relative, $left: 10px, $bottom:-40%);
+    @include transition-default(all, 0.2s, ease);
+    @include size(calc(100% - 0px), calc(100%));
+    text-align: center;
+    background: rgba($secondary,0.8);
+    .icon-zoom {
+      position: relative;
+      left: -5px;
+    }   
+    a {
+        text-align: center;    
+        display: inline-block;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        background: transparent;
+        color: $white;
+        position: relative;
+        top: 39%;
+        border: 1px solid $white;
+
+     
+      i {
+        @include font-size(1.8);
+      }
+      &:hover i {
+        color: $primary;
+      }
+    }
+  }
+
+  &:hover {
+      h3 {
+        -webkit-transform: translate3d(0, -20px, 0);
+        -moz-transform: translate3d(0, -20px, 0);
+        transform: translate3d(0, -20px, 0);
+      }
+
+      .overlay_icon {
+        bottom: calc(100% + 10px);
+        background: rgba($secondary,0.8);
+      }
+
+    }    
+
+}
+
+
+ul#portfolio {
+  li {
+      h3 {
+        text-align: center;
+        text-transform: uppercase;
+      a {
+        color: $secondary;
+        &:hover {
+          color: $primary;
+        }
+      }
+    }
+  }
+}
+
+.portfolio-excerpt {
+  padding: 15px;
+  text-align:center;
+  position: relative;
+    .more-link {
+        width: 120px;
+        position: relative;
+        display:block;
+        padding: 10px;
+        background: $primary;
+        color: $white;
+        margin: 15px auto;
+        text-align: center;
+        &:hover {
+          background: $secondary;
+        }
+    }
+}
+
+
+
+.portfolio2col .overlay_icon a {
+  top: calc(42%);
+}
+.portfolio4col .overlay_icon a {
+  top: calc(36%);
+}
+.portfolio3col_sidebar .overlay_icon a {
+  top: calc(35%);
+}

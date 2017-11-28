@@ -1,0 +1,200 @@
+.flexslider {
+  border: 0 !important;   
+  margin-bottom: 0; 
+  @include box-shadow(inset,0,0,0,transparent !important);
+  @include border-radius(0px !important);
+  background: transparent !important;
+  
+  .slides > li { 
+    position:relative;
+  }
+
+  .flex-control-nav {
+    text-align: right;
+    bottom: 0;
+    li {
+      display: block;
+      float: left;
+      margin: 0;
+    }
+   
+  }
+
+  ol.flex-control-paging {
+    text-align: center;
+    bottom: 15px;
+    z-index: 10;
+    li {
+      float: none;
+      display: inline;
+      padding:0px;
+      a {
+        display: inline-block;
+        @include border-radius(25px !important);
+        background-color: $white;
+        border: 1px solid $white !important;
+        text-indent: -9999em !important;
+        margin: 0 3px;
+        box-shadow:none;
+      }
+
+      a.flex-active,a:hover {
+        border: 1px solid $white!important;
+        border-radius: 25px;
+        background-color:transparent;
+
+      }
+
+    }
+  }
+  .flex-direction-nav {
+
+  a {
+      margin: 0;
+      opacity: 1;
+      text-align: center;
+      top: 45%;
+      background: transparent !important;
+      text-shadow: 0 0 0 transparent;
+      width: 19px;
+      display: block;
+      text-indent: -9999em;
+      padding: 20px 0;
+      height: auto;
+      font-size: 0;      
+      &:hover {
+        color: $primary;
+      }
+  }
+
+  a.flex-prev:after,
+  a.flex-prev:before,
+  a.flex-next:before,
+  a.flex-next:after {
+    @extend %flexnav_common;
+  }
+
+
+  a.flex-prev:before {
+    @extend %flexnav_prev_before;
+  }
+
+  a.flex-prev:after {
+    @extend %flexnav_prev_after;
+  }
+
+  a.flex-next:before {
+    @extend %flexnav_next_before;
+  }
+
+  a.flex-next:after {
+    @extend %flexnav_next_after;
+  }  
+
+  a.flex-next:hover:after,
+  a.flex-next:hover:before,
+  a.flex-prev:hover:before,
+  a.flex-prev:hover:after {
+    background-color: $white;
+  }  
+}
+
+  %flexnav_prev_before {
+    left: 0;
+    -webkit-transform: skew(135deg, 0deg);
+    -moz-transform: skew(135deg, 0deg);
+    -ms-transform: skew(135deg, 0deg);
+    -o-transform: skew(135deg, 0deg);
+    transform: skew(135deg, 0deg);
+  }
+
+  %flexnav_prev_after {
+    right: 100%;
+    -webkit-transform: skew(-135deg, 0deg);
+    -moz-transform: skew(-135deg, 0deg);
+    -ms-transform: skew(-135deg, 0deg);
+    -o-transform: skew(-135deg, 0deg);
+    transform: skew(-135deg, 0deg);
+  }
+
+  %flexnav_common {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 15%;
+    height: 100%;
+    //@include transition(all, 0.5s, ease);
+    background-color: $white;
+  }
+
+  %flexnav_next_before {
+    right: 0;
+    -webkit-transform: skew(135deg, 0deg);
+    -moz-transform: skew(135deg, 0deg);
+    -ms-transform: skew(135deg, 0deg);
+    -o-transform: skew(135deg, 0deg);
+    transform: skew(135deg, 0deg);  
+  }
+
+  %flexnav_next_after{
+    left: 100%;
+    -webkit-transform: skew(-135deg, 0deg);
+    -moz-transform: skew(-135deg, 0deg);
+    -ms-transform: skew(-135deg, 0deg);
+    -o-transform: skew(-135deg, 0deg);
+    transform: skew(-135deg, 0deg);
+  }
+
+  a.flex-prev {
+    left: 50px !important;
+    background-color: rgba($black, 0.8);
+  }
+
+  a.flex-next {
+    right: 50px !important;
+    background-color: rgba($black, 0.8);
+  }
+ 
+}
+
+
+.flexslider {
+  .flex-caption {
+      position: absolute;
+      top: 20%;
+      color: $white;
+      left: 10%;
+      width: 60%;
+      padding: 20px;
+      margin:0 auto;
+        h1,h2,h3,h4,h5,h6 {
+          color: $white;
+          margin-bottom: 0.5em;
+          position: relative;
+        } 
+
+        p {
+          @include font-size(1.8);
+          font-weight:bold;
+          margin-bottom:1em;
+          letter-spacing:0.1em;
+          padding-left:2px;
+        }
+
+      a,p a {
+          color: $secondary;
+          padding:4px 30px; 
+          font-weight: 700;
+          letter-spacing:normal;
+          color:$white;
+          @include font-size(1.6);
+          display: inline-block;
+          text-align: center;
+          border: 2px solid $white;
+          &:hover {
+             color: $white; 
+          }
+      }
+
+  }
+}

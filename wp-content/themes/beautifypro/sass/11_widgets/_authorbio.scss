@@ -1,0 +1,21 @@
+.author-bio {
+	padding: 20px 0;
+	.author-info {
+		.avatar {
+			float: left;
+			width: 80px;
+			img {
+				border: 5px solid $c1;
+			}
+		}
+
+		.description {
+			float: right;
+			width: 86%;
+			h4 {
+				margin-bottom: 10px;
+			}
+		}
+	}
+	
+}

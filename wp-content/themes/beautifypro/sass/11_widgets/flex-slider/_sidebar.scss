@@ -1,0 +1,50 @@
+#secondary.left-sidebar {
+	.widget {
+		.flexslider .flex-direction-nav a:before {
+			line-height: normal;
+			@include font-size(1.6);
+		}
+
+		ul.flex-control-nav li,
+		ol.flex-control-nav li,
+		ul.slides li,
+		ul.flex-direction-nav li {
+			padding: 0;
+			border: 0;
+			position: static;
+		}
+
+		ul.flex-direction-nav li {
+			a {
+				@include size(30px,30px);
+				line-height: 45px !important;
+				&:after {
+					width: 30px;
+				}
+			}
+		}
+
+
+		.flexslider {
+			background-color: transparent;
+			.flex-control-nav a {}
+
+			&:hover {
+		      .flex-direction-nav {
+
+		        a.flex-prev {
+		          left: 20px !important;
+		        }
+
+		        a.flex-next {
+		          right: 20px !important;
+		        }
+		      }
+			} 			
+		}
+
+		.flexslider .flex-control-nav {
+			bottom: 0;
+		}
+	}
+}

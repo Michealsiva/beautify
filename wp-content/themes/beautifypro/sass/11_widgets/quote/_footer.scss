@@ -1,0 +1,29 @@
+.site-footer {
+	.widget_quote-widget {
+	clear: both;
+		.pullleft,
+		.pullright,
+		.pullnone {
+			font-weight: normal;
+			font-style: normal;
+			width: 100%;
+			margin: 0;
+			float: none;
+			display: block;
+			padding-left: 60px;
+			padding-top: 0;
+			p {
+				margin-bottom: 0;
+			}
+			&:before {
+				@include position(absolute, $top: -25px, $left: 6px);
+			}			
+		}
+
+		.pullnone:before {
+			//top: auto;
+			@include font-size(5);
+			//left: 20px;
+		}
+	}
+}

@@ -1,0 +1,22 @@
+.site-footer {
+	.widget.widget_ourteam-widget .team-content {
+	height: auto;
+	margin-bottom: 30px;
+		h4 {
+			color: $white;
+			span {
+				color: $white;
+			}
+		}
+		p {
+			color: $white !important;
+		}
+	}
+
+	.widget.widget_ourteam-widget:hover .team-content {
+
+		h4 {
+			color: $primary;
+		}
+	}
+}

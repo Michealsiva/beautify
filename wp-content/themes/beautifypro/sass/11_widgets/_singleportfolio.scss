@@ -1,0 +1,53 @@
+.single-portfolio {
+  
+  .thumbnail {
+  text-align: center;
+    img {
+     // display: block;
+      max-width: 100%;
+
+    }
+  } 
+  .one-third.column {
+    text-align:left;
+    h3 {
+      font-size:16px;
+      text-transform:uppercase;
+    }
+    dt {
+      border-top: 1px solid $c1;
+      color:$secondary;
+      padding-top: 15px;
+      text-transform:uppercase;
+    }
+    dd {
+        margin-left:0px;
+        a { color:$c3;
+        &:hover {
+          color:$primary;
+        } }
+    }
+  }
+
+
+  .single-wrapper  {
+    margin-top: 30px;
+
+    h4,
+    h3 {
+      margin-bottom: 15px;
+    }
+    
+
+
+    dt:first-child {
+      border-top: 0;
+    } 
+
+    dd {
+      color: $c4;
+    }   
+
+  }
+
+}

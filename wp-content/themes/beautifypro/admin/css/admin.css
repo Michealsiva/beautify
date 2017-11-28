@@ -1,0 +1,14 @@
+ .cmb_metabox .field {
+  overflow: visible !important; }
+  
+ .iconpicker-popover.popover {
+  z-index:1!important;   
+  position: relative!important;
+  top:0!important;
+}
+
+.theme-activation {
+   clear: both;
+   display: block;
+ }
+

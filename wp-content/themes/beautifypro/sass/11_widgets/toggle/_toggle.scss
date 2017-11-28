@@ -1,0 +1,48 @@
+.toggle {
+	.close {
+	    display: none;
+	}
+
+	.open {
+	    display: block;
+	}
+	span {
+		display: inline-block;
+		@include position(absolute, $left: 10px, $top: 16px); 
+	  	padding: 3px 10px;
+	  	font-size:14px;
+	  	line-height: 1.4rem;
+	  	color:$white;   
+	  	
+	} 
+
+	.toggle-title { 
+    	margin-bottom: 0;
+    	cursor: pointer;
+    	position: relative;
+    	padding: 10px 10px 10px 40px;      
+    	margin-top: 10px;       
+    	color: $white;     
+	  	background-color: $primary;
+	  	@include font-size(2);
+	  	text-transform:uppercase;
+	  	font-family: $heading_font;
+
+	}
+
+	.toggle-content {     
+		padding: 20px;
+		//border: 1px solid $c1;
+		border-top: none;
+		color: #848484;
+		//background:#fdfcfc;
+		p {
+			margin-bottom: 0;
+		}
+	}		
+}
+
+
+@import "footer";
+
+@import "sidebar";

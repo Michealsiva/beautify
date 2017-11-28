@@ -1,0 +1,16 @@
+.flickr_badge_image {
+	display: inline-block;
+	margin: 0px 3px;
+	a,img {
+	  display: block;
+	}
+	&:hover {
+		opacity: 0.6;
+	}
+}
+
+
+
+@import "footer";
+
+@import "sidebar";

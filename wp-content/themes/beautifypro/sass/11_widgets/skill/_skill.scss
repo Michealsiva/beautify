@@ -1,0 +1,1221 @@
+.so-widget-skills-widget {
+    .skill-container {   
+        text-align:right;  
+        font-size:15px;
+        color: $white;
+        @include position(relative);
+        .skill { 
+            height: 35px; 
+            @include position(relative);
+            z-index: 1;
+            margin: 0 0 35px 0;   
+            background-color: $c1;
+            padding: 0;
+            .skill-percentage { 
+                height: 35px; 
+                line-height:2.5em;
+                padding-right: 15px;
+                @include position(relative);
+                background-color: $primary;
+                          
+            }
+            span {
+                display: block;
+                @include position(absolute, $right: 30px, $top: 6px);
+                z-index: 1;
+                font-family: $heading_font;
+                color:$secondary;
+                font-weight:700;
+            }     
+        }   
+
+        .skill-content {
+            color:$white;
+            @include position(absolute);
+            bottom: 1px;
+            text-transform:uppercase;
+            left: 15px;
+            text-align: left; 
+            font-weight:700; 
+            font-family: $heading_font;  
+            @include font-size(1.8);
+            z-index:2;
+        }         
+    }
+}
+
+
+
+.percent1  { width:1%;  }
+.percent2  { width:2%;  }
+.percent3  { width:3%;  }
+.percent4 { width:4%;  }
+.percent5  { width:5%;  }
+.percent6  { width:6%;  }
+.percent7 { width:7%;  }
+.percent8  { width:8%;  }
+.percent9  { width:9%;  }
+.percent10  { width:10%;  }
+.percent11  { width:11%;  }
+.percent12  { width:12%;  }
+.percent13  { width:13%;  }
+.percent14 { width:14%;  }
+.percent15  {  width:15%;  }
+.percent16  {  width:16%;  }
+.percent17 { width:17%;  }
+.percent18  {  width:18%;  }
+.percent19  {  width:19%;  }
+.percent20  {  width:20%;  }
+.percent21  {  width:21%;  }
+.percent22  {  width:22%;  }
+.percent23  {  width:23%;  }
+.percent24 { width:24%;  }
+.percent25  { width:25%;  }
+.percent26  {  width:26%;  }
+.percent27 { width:27%;  }
+.percent28  {  width:28%;  }
+.percent29  {  width:29%;  }
+.percent30  {  width:30%;  }
+.percent31  {  width:31%;  }
+.percent32  {  width:32%;  }
+.percent33  {  width:33%;  }
+.percent34 { width:34%;  }
+.percent35  {  width:35%;  }
+.percent36  {  width:36%;  }
+.percent37 { width:37%;  }
+.percent38  { width:38%;  }
+.percent39  {  width:39%;  }
+.percent40  {  width:40%;  }
+.percent41  {  width:41%;  }
+.percent42  {  width:42%;  }
+.percent43  {  width:43%;  }
+.percent44 { width:44%;  }
+.percent45  {  width:45%;  }
+.percent46  {  width:46%;  }
+.percent47 { width:47%;  }
+.percent48  {  width:48%;  }
+.percent49  {  width:49%;  }
+.percent50  {  width:50%;  }
+.percent51  {  width:51%;  }
+.percent52  {  width:52%;  }
+.percent53  {  width:53%;  }
+.percent54 { width:54%;  }
+.percent55  {  width:55%;  }
+.percent56  {  width:56%;  }
+.percent57 { width:57%;  }
+.percent58  {  width:58%;  }
+.percent59  { width:59%;  }
+.percent60  {  width:60%;  }
+.percent61  {  width:61%;  }
+.percent62  {  width:62%;  }
+.percent63  { width:63%;  }
+.percent64 { width:64%;  }
+.percent65  {  width:65%;  }
+.percent66  {  width:66%;  }
+.percent67 { width:67%;  }
+.percent68  { width:68%;  }
+.percent69  { width:69%;  }
+.percent70  {  width:70%;  }
+.percent71  {  width:71%;  }
+.percent72  { width:72%;  }
+.percent73  {  width:73%;  }
+.percent74 { width:74%;  }
+.percent75  { width:75%;  }
+.percent76  {  width:76%;  }
+.percent77 { width:77%;  }
+.percent78  {  width:78%;  }
+.percent79  {  width:79%;  }
+.percent80  {  width:80%;  }
+.percent81  {  width:81%;  }
+.percent82  {  width:82%;  }
+.percent83  {  width:83%;  }
+.percent84 { width:84%;  }
+.percent85  {  width:85%;  }
+.percent86  { width:86%;  }
+.percent87 { width:87%;  }
+.percent88  {  width:88%;  }
+.percent89  { width:89%;  }
+.percent90  {  width:90%;  }
+.percent91  {  width:91%;  }
+.percent92  {  width:92%;  }
+.percent93  {  width:93%;  }
+.percent94 { width:94%;  }
+.percent95  {  width:95%;  }
+.percent96  {  width:96%;  }
+.percent97 { width:97%;  }
+.percent98  { width:98%;  }
+.percent99  { width:99%;  }
+.percent100  { width:100%;  }
+
+
+.percent1.start  { 
+    width:0%;
+    -webkit-animation:  percent1  2s ease-out forwards;
+    -moz-animation:     percent1  2s ease-out forwards;
+    -ms-animation:      percent1  2s ease-out forwards;
+    -o-animation:       percent1  2s ease-out forwards;
+    animation:          percent1  2s ease-out forwards;
+}
+
+.percent2.start  { 
+    width:0%;
+    -webkit-animation:  percent2  2s ease-out forwards;
+    -moz-animation:     percent2  2s ease-out forwards;
+    -ms-animation:      percent2  2s ease-out forwards;
+    -o-animation:       percent2  2s ease-out forwards;
+    animation:          percent2  2s ease-out forwards;
+}
+.percent3.start  { 
+    width:0%;
+    -webkit-animation:  percent3  2s ease-out forwards;
+    -moz-animation:     percent3  2s ease-out forwards;
+    -ms-animation:      percent3  2s ease-out forwards;
+    -o-animation:       percent3  2s ease-out forwards;
+    animation:          percent3  2s ease-out forwards;
+}
+.percent4.start  { 
+    width:0%;
+    -webkit-animation:  percent4  2s ease-out forwards;
+    -moz-animation:     percent4  2s ease-out forwards;
+    -ms-animation:      percent4  2s ease-out forwards;
+    -o-animation:       percent4  2s ease-out forwards;
+    animation:          percent4  2s ease-out forwards;
+}
+.percent5.start  { 
+    width:0%;
+    -webkit-animation:  percent5  2s ease-out forwards;
+    -moz-animation:     percent5  2s ease-out forwards;
+    -ms-animation:      percent5  2s ease-out forwards;
+    -o-animation:       percent5  2s ease-out forwards;
+    animation:          percent5  2s ease-out forwards;
+}
+.percent6.start  { 
+    width:0%;
+    -webkit-animation:  percent6  2s ease-out forwards;
+    -moz-animation:     percent6  2s ease-out forwards;
+    -ms-animation:      percent6  2s ease-out forwards;
+    -o-animation:       percent6  2s ease-out forwards;
+    animation:          percent6  2s ease-out forwards;
+}
+.percent7.start  { 
+    width:0%;
+    -webkit-animation:  percent7  2s ease-out forwards;
+    -moz-animation:     percent7  2s ease-out forwards;
+    -ms-animation:      percent7  2s ease-out forwards;
+    -o-animation:       percent7  2s ease-out forwards;
+    animation:          percent7  2s ease-out forwards;
+}
+.percent8.start  { 
+    width:0%;
+    -webkit-animation:  percent8  2s ease-out forwards;
+    -moz-animation:     percent8  2s ease-out forwards;
+    -ms-animation:      percent8  2s ease-out forwards;
+    -o-animation:       percent8  2s ease-out forwards;
+    animation:          percent8  2s ease-out forwards;
+}
+.percent9.start  { 
+    width:0%;
+    -webkit-animation:  percent9  2s ease-out forwards;
+    -moz-animation:     percent9  2s ease-out forwards;
+    -ms-animation:      percent9  2s ease-out forwards;
+    -o-animation:       percent9  2s ease-out forwards;
+    animation:          percent9  2s ease-out forwards;
+}
+.percent10.start  { 
+    width:0%;
+    -webkit-animation:  percent10  2s ease-out forwards;
+    -moz-animation:     percent10  2s ease-out forwards;
+    -ms-animation:      percent10  2s ease-out forwards;
+    -o-animation:       percent10  2s ease-out forwards;
+    animation:          percent10  2s ease-out forwards;
+}
+.percent11.start  { 
+    width:0%;
+    -webkit-animation:  percent11  2s ease-out forwards;
+    -moz-animation:     percent11  2s ease-out forwards;
+    -ms-animation:      percent11  2s ease-out forwards;
+    -o-animation:       percent11  2s ease-out forwards;
+    animation:          percent11  2s ease-out forwards;
+}
+.percent12.start  { 
+    width:0%;
+    -webkit-animation:  percent12  2s ease-out forwards;
+    -moz-animation:     percent12  2s ease-out forwards;
+    -ms-animation:      percent12  2s ease-out forwards;
+    -o-animation:       percent12  2s ease-out forwards;
+    animation:          percent12  2s ease-out forwards;
+}
+.percent13.start  { 
+    width:0%;
+    -webkit-animation:  percent13  2s ease-out forwards;
+    -moz-animation:     percent13  2s ease-out forwards;
+    -ms-animation:      percent13  2s ease-out forwards;
+    -o-animation:       percent13  2s ease-out forwards;
+    animation:          percent13  2s ease-out forwards;
+}
+.percent14.start  { 
+    width:0%;
+    -webkit-animation:  percent14  2s ease-out forwards;
+    -moz-animation:     percent14  2s ease-out forwards;
+    -ms-animation:      percent14  2s ease-out forwards;
+    -o-animation:       percent14  2s ease-out forwards;
+    animation:          percent14  2s ease-out forwards;
+}
+.percent15.start  { 
+    width:0%;
+    -webkit-animation:  percent15  2s ease-out forwards;
+    -moz-animation:     percent15  2s ease-out forwards;
+    -ms-animation:      percent15  2s ease-out forwards;
+    -o-animation:       percent15  2s ease-out forwards;
+    animation:          percent15  2s ease-out forwards;
+}
+.percent16.start  { 
+    width:0%;
+    -webkit-animation:  percent16  2s ease-out forwards;
+    -moz-animation:     percent16  2s ease-out forwards;
+    -ms-animation:      percent16  2s ease-out forwards;
+    -o-animation:       percent16  2s ease-out forwards;
+    animation:          percent16  2s ease-out forwards;
+}
+.percent17.start  { 
+    width:0%;
+    -webkit-animation:  percent17  2s ease-out forwards;
+    -moz-animation:     percent17  2s ease-out forwards;
+    -ms-animation:      percent17  2s ease-out forwards;
+    -o-animation:       percent17  2s ease-out forwards;
+    animation:          percent17  2s ease-out forwards;
+}
+.percent18.start  { 
+    width:0%;
+    -webkit-animation:  percent18  2s ease-out forwards;
+    -moz-animation:     percent18  2s ease-out forwards;
+    -ms-animation:      percent18  2s ease-out forwards;
+    -o-animation:       percent18  2s ease-out forwards;
+    animation:          percent18  2s ease-out forwards;
+}
+.percent19.start  { 
+    width:0%;
+    -webkit-animation:  percent19  2s ease-out forwards;
+    -moz-animation:     percent19  2s ease-out forwards;
+    -ms-animation:      percent19  2s ease-out forwards;
+    -o-animation:       percent19  2s ease-out forwards;
+    animation:          percent19  2s ease-out forwards;
+}
+
+.percent20.start  { 
+    width:0%;
+    -webkit-animation:  percent20  2s ease-out forwards;
+    -moz-animation:     percent20  2s ease-out forwards;
+    -ms-animation:      percent20  2s ease-out forwards;
+    -o-animation:       percent20  2s ease-out forwards;
+    animation:          percent20  2s ease-out forwards;
+}
+
+.percent21.start  { 
+    width:0%;
+    -webkit-animation:  percent21  2s ease-out forwards;
+    -moz-animation:     percent21  2s ease-out forwards;
+    -ms-animation:      percent21  2s ease-out forwards;
+    -o-animation:       percent21  2s ease-out forwards;
+    animation:          percent21  2s ease-out forwards;
+}
+.percent22.start  { 
+    width:0%;
+    -webkit-animation:  percent22  2s ease-out forwards;
+    -moz-animation:     percent22  2s ease-out forwards;
+    -ms-animation:      percent22  2s ease-out forwards;
+    -o-animation:       percent22  2s ease-out forwards;
+    animation:          percent22  2s ease-out forwards;
+}
+.percent23.start  { 
+    width:0%;
+    -webkit-animation:  percent23  2s ease-out forwards;
+    -moz-animation:     percent23  2s ease-out forwards;
+    -ms-animation:      percent23  2s ease-out forwards;
+    -o-animation:       percent23  2s ease-out forwards;
+    animation:          percent23  2s ease-out forwards;
+}
+.percent24.start  { 
+    width:0%;
+    -webkit-animation:  percent24  2s ease-out forwards;
+    -moz-animation:     percent24  2s ease-out forwards;
+    -ms-animation:      percent24  2s ease-out forwards;
+    -o-animation:       percent24  2s ease-out forwards;
+    animation:          percent24  2s ease-out forwards;
+}
+
+.percent25.start  { 
+    width:0%;
+    -webkit-animation:  percent25  2s ease-out forwards;
+    -moz-animation:     percent25  2s ease-out forwards;
+    -ms-animation:      percent25  2s ease-out forwards;
+    -o-animation:       percent25  2s ease-out forwards;
+    animation:          percent25  2s ease-out forwards;
+}
+.percent26.start  { 
+    width:0%;
+    -webkit-animation:  percent26  2s ease-out forwards;
+    -moz-animation:     percent26  2s ease-out forwards;
+    -ms-animation:      percent26  2s ease-out forwards;
+    -o-animation:       percent26  2s ease-out forwards;
+    animation:          percent26  2s ease-out forwards;
+}
+.percent27.start  { 
+    width:0%;
+    -webkit-animation:  percent27  2s ease-out forwards;
+    -moz-animation:     percent27  2s ease-out forwards;
+    -ms-animation:      percent27  2s ease-out forwards;
+    -o-animation:       percent27  2s ease-out forwards;
+    animation:          percent27  2s ease-out forwards;
+}
+.percent28.start  { 
+    width:0%;
+    -webkit-animation:  percent28  2s ease-out forwards;
+    -moz-animation:     percent28  2s ease-out forwards;
+    -ms-animation:      percent28  2s ease-out forwards;
+    -o-animation:       percent28  2s ease-out forwards;
+    animation:          percent28  2s ease-out forwards;
+}
+.percent29.start  { 
+    width:0%;
+    -webkit-animation:  percent29  2s ease-out forwards;
+    -moz-animation:     percent29  2s ease-out forwards;
+    -ms-animation:      percent29  2s ease-out forwards;
+    -o-animation:       percent29  2s ease-out forwards;
+    animation:          percent29  2s ease-out forwards;
+}
+
+.percent30.start  { 
+    width:0%;
+    -webkit-animation:  percent30  2s ease-out forwards;
+    -moz-animation:     percent30  2s ease-out forwards;
+    -ms-animation:      percent30  2s ease-out forwards;
+    -o-animation:       percent30  2s ease-out forwards;
+    animation:          percent30  2s ease-out forwards;
+}
+.percent31.start  { 
+    width:0%;
+    -webkit-animation:  percent31  2s ease-out forwards;
+    -moz-animation:     percent31  2s ease-out forwards;
+    -ms-animation:      percent31  2s ease-out forwards;
+    -o-animation:       percent31  2s ease-out forwards;
+    animation:          percent31  2s ease-out forwards;
+}
+.percent32.start  { 
+    width:0%;
+    -webkit-animation:  percent32  2s ease-out forwards;
+    -moz-animation:     percent32  2s ease-out forwards;
+    -ms-animation:      percent32  2s ease-out forwards;
+    -o-animation:       percent32  2s ease-out forwards;
+    animation:          percent32  2s ease-out forwards;
+}
+.percent33.start  { 
+    width:0%;
+    -webkit-animation:  percent33  2s ease-out forwards;
+    -moz-animation:     percent33  2s ease-out forwards;
+    -ms-animation:      percent33  2s ease-out forwards;
+    -o-animation:       percent33  2s ease-out forwards;
+    animation:          percent33  2s ease-out forwards;
+}
+.percent34.start  { 
+    width:0%;
+    -webkit-animation:  percent34  2s ease-out forwards;
+    -moz-animation:     percent34  2s ease-out forwards;
+    -ms-animation:      percent34  2s ease-out forwards;
+    -o-animation:       percent34  2s ease-out forwards;
+    animation:          percent34  2s ease-out forwards;
+}
+
+.percent35.start  { 
+    width:0%;
+    -webkit-animation:  percent35  2s ease-out forwards;
+    -moz-animation:     percent35  2s ease-out forwards;
+    -ms-animation:      percent35  2s ease-out forwards;
+    -o-animation:       percent35  2s ease-out forwards;
+    animation:          percent35  2s ease-out forwards;
+}
+.percent36.start  { 
+    width:0%;
+    -webkit-animation:  percent36  2s ease-out forwards;
+    -moz-animation:     percent36  2s ease-out forwards;
+    -ms-animation:      percent36  2s ease-out forwards;
+    -o-animation:       percent36  2s ease-out forwards;
+    animation:          percent36  2s ease-out forwards;
+}
+.percent37.start  { 
+    width:0%;
+    -webkit-animation:  percent37  2s ease-out forwards;
+    -moz-animation:     percent37  2s ease-out forwards;
+    -ms-animation:      percent37  2s ease-out forwards;
+    -o-animation:       percent37  2s ease-out forwards;
+    animation:          percent37  2s ease-out forwards;
+}
+.percent38.start  { 
+    width:0%;
+    -webkit-animation:  percent38  2s ease-out forwards;
+    -moz-animation:     percent38  2s ease-out forwards;
+    -ms-animation:      percent38  2s ease-out forwards;
+    -o-animation:       percent38  2s ease-out forwards;
+    animation:          percent38  2s ease-out forwards;
+}
+.percent39.start  { 
+    width:0%;
+    -webkit-animation:  percent39  2s ease-out forwards;
+    -moz-animation:     percent39  2s ease-out forwards;
+    -ms-animation:      percent39  2s ease-out forwards;
+    -o-animation:       percent39  2s ease-out forwards;
+    animation:          percent39  2s ease-out forwards;
+}
+
+.percent40.start  { 
+    width:0%;
+    -webkit-animation:  percent40  2s ease-out forwards;
+    -moz-animation:     percent40  2s ease-out forwards;
+    -ms-animation:      percent40  2s ease-out forwards;
+    -o-animation:       percent40  2s ease-out forwards;
+    animation:          percent40  2s ease-out forwards;
+}
+.percent41.start  { 
+    width:0%;
+    -webkit-animation:  percent41  2s ease-out forwards;
+    -moz-animation:     percent41  2s ease-out forwards;
+    -ms-animation:      percent41  2s ease-out forwards;
+    -o-animation:       percent41  2s ease-out forwards;
+    animation:          percent41  2s ease-out forwards;
+}
+.percent42.start  { 
+    width:0%;
+    -webkit-animation:  percent42  2s ease-out forwards;
+    -moz-animation:     percent42  2s ease-out forwards;
+    -ms-animation:      percent42  2s ease-out forwards;
+    -o-animation:       percent42  2s ease-out forwards;
+    animation:          percent42  2s ease-out forwards;
+}
+.percent43.start  { 
+    width:0%;
+    -webkit-animation:  percent43  2s ease-out forwards;
+    -moz-animation:     percent43  2s ease-out forwards;
+    -ms-animation:      percent43  2s ease-out forwards;
+    -o-animation:       percent43  2s ease-out forwards;
+    animation:          percent43  2s ease-out forwards;
+}
+.percent44.start  { 
+    width:0%;
+    -webkit-animation:  percent44  2s ease-out forwards;
+    -moz-animation:     percent44  2s ease-out forwards;
+    -ms-animation:      percent44  2s ease-out forwards;
+    -o-animation:       percent44  2s ease-out forwards;
+    animation:          percent44  2s ease-out forwards;
+}
+
+.percent45.start  { 
+    width:0%;
+    -webkit-animation:  percent45  2s ease-out forwards;
+    -moz-animation:     percent45  2s ease-out forwards;
+    -ms-animation:      percent45  2s ease-out forwards;
+    -o-animation:       percent45  2s ease-out forwards;
+    animation:          percent45  2s ease-out forwards;
+}
+.percent46.start  { 
+    width:0%;
+    -webkit-animation:  percent46  2s ease-out forwards;
+    -moz-animation:     percent46  2s ease-out forwards;
+    -ms-animation:      percent46  2s ease-out forwards;
+    -o-animation:       percent46  2s ease-out forwards;
+    animation:          percent46  2s ease-out forwards;
+}
+.percent47.start  { 
+    width:0%;
+    -webkit-animation:  percent47  2s ease-out forwards;
+    -moz-animation:     percent47  2s ease-out forwards;
+    -ms-animation:      percent47  2s ease-out forwards;
+    -o-animation:       percent47  2s ease-out forwards;
+    animation:          percent47  2s ease-out forwards;
+}
+.percent48.start  { 
+    width:0%;
+    -webkit-animation:  percent48  2s ease-out forwards;
+    -moz-animation:     percent48  2s ease-out forwards;
+    -ms-animation:      percent48  2s ease-out forwards;
+    -o-animation:       percent48  2s ease-out forwards;
+    animation:          percent48  2s ease-out forwards;
+}
+.percent49.start  { 
+    width:0%;
+    -webkit-animation:  percent49  2s ease-out forwards;
+    -moz-animation:     percent49  2s ease-out forwards;
+    -ms-animation:      percent49  2s ease-out forwards;
+    -o-animation:       percent49  2s ease-out forwards;
+    animation:          percent49  2s ease-out forwards;
+}
+
+.percent50.start  { 
+    width:0%;
+    -webkit-animation:  percent50  2s ease-out forwards;
+    -moz-animation:     percent50  2s ease-out forwards;
+    -ms-animation:      percent50  2s ease-out forwards;
+    -o-animation:       percent50  2s ease-out forwards;
+    animation:          percent50  2s ease-out forwards;
+}
+.percent51.start  { 
+    width:0%;
+    -webkit-animation:  percent51  2s ease-out forwards;
+    -moz-animation:     percent51  2s ease-out forwards;
+    -ms-animation:      percent51  2s ease-out forwards;
+    -o-animation:       percent51  2s ease-out forwards;
+    animation:          percent51  2s ease-out forwards;
+}
+.percent52.start  { 
+    width:0%;
+    -webkit-animation:  percent52  2s ease-out forwards;
+    -moz-animation:     percent52  2s ease-out forwards;
+    -ms-animation:      percent52  2s ease-out forwards;
+    -o-animation:       percent52  2s ease-out forwards;
+    animation:          percent52  2s ease-out forwards;
+}
+.percent53.start  { 
+    width:0%;
+    -webkit-animation:  percent53  2s ease-out forwards;
+    -moz-animation:     percent53  2s ease-out forwards;
+    -ms-animation:      percent53  2s ease-out forwards;
+    -o-animation:       percent53  2s ease-out forwards;
+    animation:          percent53  2s ease-out forwards;
+}
+.percent54.start  { 
+    width:0%;
+    -webkit-animation:  percent54  2s ease-out forwards;
+    -moz-animation:     percent54  2s ease-out forwards;
+    -ms-animation:      percent54  2s ease-out forwards;
+    -o-animation:       percent54  2s ease-out forwards;
+    animation:          percent54  2s ease-out forwards;
+}
+
+.percent55.start  { 
+    width:0%;
+    -webkit-animation:  percent55  2s ease-out forwards;
+    -moz-animation:     percent55  2s ease-out forwards;
+    -ms-animation:      percent55  2s ease-out forwards;
+    -o-animation:       percent55  2s ease-out forwards;
+    animation:          percent55  2s ease-out forwards;
+}
+.percent56.start  { 
+    width:0%;
+    -webkit-animation:  percent56  2s ease-out forwards;
+    -moz-animation:     percent56  2s ease-out forwards;
+    -ms-animation:      percent56  2s ease-out forwards;
+    -o-animation:       percent56  2s ease-out forwards;
+    animation:          percent56  2s ease-out forwards;
+}
+.percent57.start  { 
+    width:0%;
+    -webkit-animation:  percent57  2s ease-out forwards;
+    -moz-animation:     percent57  2s ease-out forwards;
+    -ms-animation:      percent57  2s ease-out forwards;
+    -o-animation:       percent57  2s ease-out forwards;
+    animation:          percent57  2s ease-out forwards;
+}
+.percent58.start  { 
+    width:0%;
+    -webkit-animation:  percent58  2s ease-out forwards;
+    -moz-animation:     percent58  2s ease-out forwards;
+    -ms-animation:      percent58  2s ease-out forwards;
+    -o-animation:       percent58  2s ease-out forwards;
+    animation:          percent58  2s ease-out forwards;
+}
+.percent59.start  { 
+    width:0%;
+    -webkit-animation:  percent59  2s ease-out forwards;
+    -moz-animation:     percent59  2s ease-out forwards;
+    -ms-animation:      percent59  2s ease-out forwards;
+    -o-animation:       percent59  2s ease-out forwards;
+    animation:          percent59  2s ease-out forwards;
+}
+
+.percent60.start  { 
+    width:0%;
+    -webkit-animation:  percent60  2s ease-out forwards;
+    -moz-animation:     percent60  2s ease-out forwards;
+    -ms-animation:      percent60  2s ease-out forwards;
+    -o-animation:       percent60  2s ease-out forwards;
+    animation:          percent60  2s ease-out forwards;
+}
+.percent61.start  { 
+    width:0%;
+    -webkit-animation:  percent61  2s ease-out forwards;
+    -moz-animation:     percent61  2s ease-out forwards;
+    -ms-animation:      percent61  2s ease-out forwards;
+    -o-animation:       percent61  2s ease-out forwards;
+    animation:          percent61  2s ease-out forwards;
+}
+.percent62.start  { 
+    width:0%;
+    -webkit-animation:  percent62  2s ease-out forwards;
+    -moz-animation:     percent62  2s ease-out forwards;
+    -ms-animation:      percent62  2s ease-out forwards;
+    -o-animation:       percent62  2s ease-out forwards;
+    animation:          percent62  2s ease-out forwards;
+}
+.percent63.start  { 
+    width:0%;
+    -webkit-animation:  percent63  2s ease-out forwards;
+    -moz-animation:     percent63  2s ease-out forwards;
+    -ms-animation:      percent63  2s ease-out forwards;
+    -o-animation:       percent63  2s ease-out forwards;
+    animation:          percent63  2s ease-out forwards;
+}
+.percent64.start  { 
+    width:0%;
+    -webkit-animation:  percent64  2s ease-out forwards;
+    -moz-animation:     percent64  2s ease-out forwards;
+    -ms-animation:      percent64  2s ease-out forwards;
+    -o-animation:       percent64  2s ease-out forwards;
+    animation:          percent64  2s ease-out forwards;
+}
+
+.percent65.start  { 
+    width:0%;
+    -webkit-animation:  percent65  2s ease-out forwards;
+    -moz-animation:     percent65  2s ease-out forwards;
+    -ms-animation:      percent65  2s ease-out forwards;
+    -o-animation:       percent65  2s ease-out forwards;
+    animation:          percent65  2s ease-out forwards;
+}
+.percent66.start  { 
+    width:0%;
+    -webkit-animation:  percent66  2s ease-out forwards;
+    -moz-animation:     percent66  2s ease-out forwards;
+    -ms-animation:      percent66  2s ease-out forwards;
+    -o-animation:       percent66  2s ease-out forwards;
+    animation:          percent66  2s ease-out forwards;
+}
+.percent67.start  { 
+    width:0%;
+    -webkit-animation:  percent67  2s ease-out forwards;
+    -moz-animation:     percent67  2s ease-out forwards;
+    -ms-animation:      percent67  2s ease-out forwards;
+    -o-animation:       percent67  2s ease-out forwards;
+    animation:          percent67  2s ease-out forwards;
+}
+.percent68.start  { 
+    width:0%;
+    -webkit-animation:  percent68  2s ease-out forwards;
+    -moz-animation:     percent68  2s ease-out forwards;
+    -ms-animation:      percent68  2s ease-out forwards;
+    -o-animation:       percent68  2s ease-out forwards;
+    animation:          percent68  2s ease-out forwards;
+}
+.percent69.start  { 
+    width:0%;
+    -webkit-animation:  percent69  2s ease-out forwards;
+    -moz-animation:     percent69  2s ease-out forwards;
+    -ms-animation:      percent69  2s ease-out forwards;
+    -o-animation:       percent69  2s ease-out forwards;
+    animation:          percent69  2s ease-out forwards;
+}
+
+.percent70.start  { 
+    width:0%;
+    -webkit-animation:  percent70  2s ease-out forwards;
+    -moz-animation:     percent70  2s ease-out forwards;
+    -ms-animation:      percent70  2s ease-out forwards;
+    -o-animation:       percent70  2s ease-out forwards;
+    animation:          percent70  2s ease-out forwards;
+}
+.percent71.start  { 
+    width:0%;
+    -webkit-animation:  percent71  2s ease-out forwards;
+    -moz-animation:     percent71  2s ease-out forwards;
+    -ms-animation:      percent71  2s ease-out forwards;
+    -o-animation:       percent71  2s ease-out forwards;
+    animation:          percent71  2s ease-out forwards;
+}
+.percent72.start  { 
+    width:0%;
+    -webkit-animation:  percent72  2s ease-out forwards;
+    -moz-animation:     percent72  2s ease-out forwards;
+    -ms-animation:      percent72  2s ease-out forwards;
+    -o-animation:       percent72  2s ease-out forwards;
+    animation:          percent72  2s ease-out forwards;
+}
+.percent73.start  { 
+    width:0%;
+    -webkit-animation:  percent73  2s ease-out forwards;
+    -moz-animation:     percent73  2s ease-out forwards;
+    -ms-animation:      percent73  2s ease-out forwards;
+    -o-animation:       percent73  2s ease-out forwards;
+    animation:          percent73  2s ease-out forwards;
+}
+.percent74.start  { 
+    width:0%;
+    -webkit-animation:  percent74  2s ease-out forwards;
+    -moz-animation:     percent74  2s ease-out forwards;
+    -ms-animation:      percent74  2s ease-out forwards;
+    -o-animation:       percent74  2s ease-out forwards;
+    animation:          percent74  2s ease-out forwards;
+}
+
+.percent75.start  { 
+    width:0%;
+    -webkit-animation:  percent75  2s ease-out forwards;
+    -moz-animation:     percent75  2s ease-out forwards;
+    -ms-animation:      percent75  2s ease-out forwards;
+    -o-animation:       percent75  2s ease-out forwards;
+    animation:          percent75  2s ease-out forwards;
+}
+.percent76.start  { 
+    width:0%;
+    -webkit-animation:  percent76  2s ease-out forwards;
+    -moz-animation:     percent76  2s ease-out forwards;
+    -ms-animation:      percent76  2s ease-out forwards;
+    -o-animation:       percent76  2s ease-out forwards;
+    animation:          percent76  2s ease-out forwards;
+}
+.percent77.start  { 
+    width:0%;
+    -webkit-animation:  percent77  2s ease-out forwards;
+    -moz-animation:     percent77  2s ease-out forwards;
+    -ms-animation:      percent77  2s ease-out forwards;
+    -o-animation:       percent77  2s ease-out forwards;
+    animation:          percent77  2s ease-out forwards;
+}
+.percent78.start  { 
+    width:0%;
+    -webkit-animation:  percent78  2s ease-out forwards;
+    -moz-animation:     percent78  2s ease-out forwards;
+    -ms-animation:      percent78  2s ease-out forwards;
+    -o-animation:       percent78  2s ease-out forwards;
+    animation:          percent78  2s ease-out forwards;
+}
+.percent79.start  { 
+    width:0%;
+    -webkit-animation:  percent79  2s ease-out forwards;
+    -moz-animation:     percent79  2s ease-out forwards;
+    -ms-animation:      percent79  2s ease-out forwards;
+    -o-animation:       percent79  2s ease-out forwards;
+    animation:          percent79  2s ease-out forwards;
+}
+
+.percent80.start  { 
+    width:0%;
+    -webkit-animation:  percent80  2s ease-out forwards;
+    -moz-animation:     percent80  2s ease-out forwards;
+    -ms-animation:      percent80  2s ease-out forwards;
+    -o-animation:       percent80  2s ease-out forwards;
+    animation:          percent80  2s ease-out forwards;
+}
+.percent81.start  { 
+    width:0%;
+    -webkit-animation:  percent81  2s ease-out forwards;
+    -moz-animation:     percent81  2s ease-out forwards;
+    -ms-animation:      percent81  2s ease-out forwards;
+    -o-animation:       percent81  2s ease-out forwards;
+    animation:          percent81  2s ease-out forwards;
+}
+.percent82.start  { 
+    width:0%;
+    -webkit-animation:  percent82  2s ease-out forwards;
+    -moz-animation:     percent82  2s ease-out forwards;
+    -ms-animation:      percent82  2s ease-out forwards;
+    -o-animation:       percent82  2s ease-out forwards;
+    animation:          percent82  2s ease-out forwards;
+}
+.percent83.start  { 
+    width:0%;
+    -webkit-animation:  percent83  2s ease-out forwards;
+    -moz-animation:     percent83  2s ease-out forwards;
+    -ms-animation:      percent83  2s ease-out forwards;
+    -o-animation:       percent83  2s ease-out forwards;
+    animation:          percent83  2s ease-out forwards;
+}
+.percent84.start  { 
+    width:0%;
+    -webkit-animation:  percent84  2s ease-out forwards;
+    -moz-animation:     percent84  2s ease-out forwards;
+    -ms-animation:      percent84  2s ease-out forwards;
+    -o-animation:       percent84  2s ease-out forwards;
+    animation:          percent84  2s ease-out forwards;
+}
+
+
+.percent85.start  { 
+    width:0%;
+    -webkit-animation:  percent85  2s ease-out forwards;
+    -moz-animation:     percent85  2s ease-out forwards;
+    -ms-animation:      percent85  2s ease-out forwards;
+    -o-animation:       percent85  2s ease-out forwards;
+    animation:          percent85  2s ease-out forwards;
+}
+
+.percent86.start  { 
+    width:0%;
+    -webkit-animation:  percent86  2s ease-out forwards;
+    -moz-animation:     percent86  2s ease-out forwards;
+    -ms-animation:      percent86  2s ease-out forwards;
+    -o-animation:       percent86  2s ease-out forwards;
+    animation:          percent86  2s ease-out forwards;
+}
+.percent87.start  { 
+    width:0%;
+    -webkit-animation:  percent87  2s ease-out forwards;
+    -moz-animation:     percent87  2s ease-out forwards;
+    -ms-animation:      percent87  2s ease-out forwards;
+    -o-animation:       percent87  2s ease-out forwards;
+    animation:          percent87  2s ease-out forwards;
+}
+.percent88.start  { 
+    width:0%;
+    -webkit-animation:  percent88  2s ease-out forwards;
+    -moz-animation:     percent88  2s ease-out forwards;
+    -ms-animation:      percent88  2s ease-out forwards;
+    -o-animation:       percent88  2s ease-out forwards;
+    animation:          percent88  2s ease-out forwards;
+}
+.percent89.start  { 
+    width:0%;
+    -webkit-animation:  percent89  2s ease-out forwards;
+    -moz-animation:     percent89  2s ease-out forwards;
+    -ms-animation:      percent89  2s ease-out forwards;
+    -o-animation:       percent89  2s ease-out forwards;
+    animation:          percent89  2s ease-out forwards;
+}
+
+.percent90.start  { 
+    width:0%;
+    -webkit-animation:  percent90  2s ease-out forwards;
+    -moz-animation:     percent90  2s ease-out forwards;
+    -ms-animation:      percent90  2s ease-out forwards;
+    -o-animation:       percent90  2s ease-out forwards;
+    animation:          percent90  2s ease-out forwards;
+}
+
+.percent91.start  { 
+    width:0%;
+    -webkit-animation:  percent91  2s ease-out forwards;
+    -moz-animation:     percent91  2s ease-out forwards;
+    -ms-animation:      percent91  2s ease-out forwards;
+    -o-animation:       percent91  2s ease-out forwards;
+    animation:          percent91  2s ease-out forwards;
+}
+.percent92.start  { 
+    width:0%;
+    -webkit-animation:  percent92  2s ease-out forwards;
+    -moz-animation:     percent92  2s ease-out forwards;
+    -ms-animation:      percent92  2s ease-out forwards;
+    -o-animation:       percent92  2s ease-out forwards;
+    animation:          percent92  2s ease-out forwards;
+}
+.percent93.start  { 
+    width:0%;
+    -webkit-animation:  percent93  2s ease-out forwards;
+    -moz-animation:     percent93  2s ease-out forwards;
+    -ms-animation:      percent93  2s ease-out forwards;
+    -o-animation:       percent93  2s ease-out forwards;
+    animation:          percent93  2s ease-out forwards;
+}
+.percent94.start  { 
+    width:0%;
+    -webkit-animation:  percent94  2s ease-out forwards;
+    -moz-animation:     percent94  2s ease-out forwards;
+    -ms-animation:      percent94  2s ease-out forwards;
+    -o-animation:       percent94  2s ease-out forwards;
+    animation:          percent94  2s ease-out forwards;
+}
+
+.percent95.start  { 
+    width:0%;
+    -webkit-animation:  percent95  2s ease-out forwards;
+    -moz-animation:     percent95  2s ease-out forwards;
+    -ms-animation:      percent95  2s ease-out forwards;
+    -o-animation:       percent95  2s ease-out forwards;
+    animation:          percent95  2s ease-out forwards;
+}
+.percent96.start  { 
+    width:0%;
+    -webkit-animation:  percent96  2s ease-out forwards;
+    -moz-animation:     percent96  2s ease-out forwards;
+    -ms-animation:      percent96  2s ease-out forwards;
+    -o-animation:       percent96  2s ease-out forwards;
+    animation:          percent96  2s ease-out forwards;
+}
+.percent97.start  { 
+    width:0%;
+    -webkit-animation:  percent97  2s ease-out forwards;
+    -moz-animation:     percent97  2s ease-out forwards;
+    -ms-animation:      percent97  2s ease-out forwards;
+    -o-animation:       percent97  2s ease-out forwards;
+    animation:          percent97  2s ease-out forwards;
+}
+.percent98.start  { 
+    width:0%;
+    -webkit-animation:  percent98  2s ease-out forwards;
+    -moz-animation:     percent98  2s ease-out forwards;
+    -ms-animation:      percent98  2s ease-out forwards;
+    -o-animation:       percent98  2s ease-out forwards;
+    animation:          percent98  2s ease-out forwards;
+}
+.percent99.start  { 
+    width:0%;
+    -webkit-animation:  percent99  2s ease-out forwards;
+    -moz-animation:     percent99  2s ease-out forwards;
+    -ms-animation:      percent99  2s ease-out forwards;
+    -o-animation:       percent99  2s ease-out forwards;
+    animation:          percent99  2s ease-out forwards;
+}
+
+.percent100 { 
+    width:0%; 
+    -webkit-animation:  percent100  2s ease-out forwards;
+    -moz-animation:     percent100  2s ease-out forwards;
+    -ms-animation:      percent100  2s ease-out forwards;
+    -o-animation:       percent100  2s ease-out forwards;
+    animation:          percent100  2s ease-out forwards;
+}
+
+@-moz-keyframes percent1  { 0%  { width:0px;} 100%{ width:1%;}  }
+@-moz-keyframes percent2  { 0%  { width:0px;} 100%{ width:2%;}  }
+@-moz-keyframes percent3  { 0%  { width:0px;} 100%{ width:3%;}  }
+@-moz-keyframes percent4 { 0%  { width:0px;} 100%{ width:4%;}  }
+@-moz-keyframes percent5  { 0%  { width:0px;} 100%{ width:5%;}  }
+@-moz-keyframes percent6  { 0%  { width:0px;} 100%{ width:6%;}  }
+@-moz-keyframes percent7 { 0%  { width:0px;} 100%{ width:7%;}  }
+@-moz-keyframes percent8  { 0%  { width:0px;} 100%{ width:8%;}  }
+@-moz-keyframes percent9  { 0%  { width:0px;} 100%{ width:9%;}  }
+@-moz-keyframes percent10  { 0%  { width:0px;} 100%{ width:10%;}  }
+@-moz-keyframes percent11  { 0%  { width:0px;} 100%{ width:11%;}  }
+@-moz-keyframes percent12  { 0%  { width:0px;} 100%{ width:12%;}  }
+@-moz-keyframes percent13  { 0%  { width:0px;} 100%{ width:13%;}  }
+@-moz-keyframes percent14 { 0%  { width:0px;} 100%{ width:14%;}  }
+@-moz-keyframes percent15  { 0%  { width:0px;} 100%{ width:15%;}  }
+@-moz-keyframes percent16  { 0%  { width:0px;} 100%{ width:16%;}  }
+@-moz-keyframes percent17 { 0%  { width:0px;} 100%{ width:17%;}  }
+@-moz-keyframes percent18  { 0%  { width:0px;} 100%{ width:18%;}  }
+@-moz-keyframes percent19  { 0%  { width:0px;} 100%{ width:19%;}  }
+@-moz-keyframes percent20  { 0%  { width:0px;} 100%{ width:20%;}  }
+@-moz-keyframes percent21  { 0%  { width:0px;} 100%{ width:21%;}  }
+@-moz-keyframes percent22  { 0%  { width:0px;} 100%{ width:22%;}  }
+@-moz-keyframes percent23  { 0%  { width:0px;} 100%{ width:23%;}  }
+@-moz-keyframes percent24 { 0%  { width:0px;} 100%{ width:24%;}  }
+@-moz-keyframes percent25  { 0%  { width:0px;} 100%{ width:25%;}  }
+@-moz-keyframes percent26  { 0%  { width:0px;} 100%{ width:26%;}  }
+@-moz-keyframes percent27 { 0%  { width:0px;} 100%{ width:27%;}  }
+@-moz-keyframes percent28  { 0%  { width:0px;} 100%{ width:28%;}  }
+@-moz-keyframes percent29  { 0%  { width:0px;} 100%{ width:29%;}  }
+@-moz-keyframes percent30  { 0%  { width:0px;} 100%{ width:30%;}  }
+@-moz-keyframes percent31  { 0%  { width:0px;} 100%{ width:31%;}  }
+@-moz-keyframes percent32  { 0%  { width:0px;} 100%{ width:32%;}  }
+@-moz-keyframes percent33  { 0%  { width:0px;} 100%{ width:33%;}  }
+@-moz-keyframes percent34 { 0%  { width:0px;} 100%{ width:34%;}  }
+@-moz-keyframes percent35  { 0%  { width:0px;} 100%{ width:35%;}  }
+@-moz-keyframes percent36  { 0%  { width:0px;} 100%{ width:36%;}  }
+@-moz-keyframes percent37 { 0%  { width:0px;} 100%{ width:37%;}  }
+@-moz-keyframes percent38  { 0%  { width:0px;} 100%{ width:38%;}  }
+@-moz-keyframes percent39  { 0%  { width:0px;} 100%{ width:39%;}  }
+@-moz-keyframes percent40  { 0%  { width:0px;} 100%{ width:40%;}  }
+@-moz-keyframes percent41  { 0%  { width:0px;} 100%{ width:41%;}  }
+@-moz-keyframes percent42  { 0%  { width:0px;} 100%{ width:42%;}  }
+@-moz-keyframes percent43  { 0%  { width:0px;} 100%{ width:43%;}  }
+@-moz-keyframes percent44 { 0%  { width:0px;} 100%{ width:44%;}  }
+@-moz-keyframes percent45  { 0%  { width:0px;} 100%{ width:45%;}  }
+@-moz-keyframes percent46  { 0%  { width:0px;} 100%{ width:46%;}  }
+@-moz-keyframes percent47 { 0%  { width:0px;} 100%{ width:47%;}  }
+@-moz-keyframes percent48  { 0%  { width:0px;} 100%{ width:48%;}  }
+@-moz-keyframes percent49  { 0%  { width:0px;} 100%{ width:49%;}  }
+@-moz-keyframes percent50  { 0%  { width:0px;} 100%{ width:50%;}  }
+@-moz-keyframes percent51  { 0%  { width:0px;} 100%{ width:51%;}  }
+@-moz-keyframes percent52  { 0%  { width:0px;} 100%{ width:52%;}  }
+@-moz-keyframes percent53  { 0%  { width:0px;} 100%{ width:53%;}  }
+@-moz-keyframes percent54 { 0%  { width:0px;} 100%{ width:54%;}  }
+@-moz-keyframes percent55  { 0%  { width:0px;} 100%{ width:55%;}  }
+@-moz-keyframes percent56  { 0%  { width:0px;} 100%{ width:56%;}  }
+@-moz-keyframes percent57 { 0%  { width:0px;} 100%{ width:57%;}  }
+@-moz-keyframes percent58  { 0%  { width:0px;} 100%{ width:58%;}  }
+@-moz-keyframes percent59  { 0%  { width:0px;} 100%{ width:59%;}  }
+@-moz-keyframes percent60  { 0%  { width:0px;} 100%{ width:60%;}  }
+@-moz-keyframes percent61  { 0%  { width:0px;} 100%{ width:61%;}  }
+@-moz-keyframes percent62  { 0%  { width:0px;} 100%{ width:62%;}  }
+@-moz-keyframes percent63  { 0%  { width:0px;} 100%{ width:63%;}  }
+@-moz-keyframes percent64 { 0%  { width:0px;} 100%{ width:64%;}  }
+@-moz-keyframes percent65  { 0%  { width:0px;} 100%{ width:65%;}  }
+@-moz-keyframes percent66  { 0%  { width:0px;} 100%{ width:66%;}  }
+@-moz-keyframes percent67 { 0%  { width:0px;} 100%{ width:67%;}  }
+@-moz-keyframes percent68  { 0%  { width:0px;} 100%{ width:68%;}  }
+@-moz-keyframes percent69  { 0%  { width:0px;} 100%{ width:69%;}  }
+@-moz-keyframes percent70  { 0%  { width:0px;} 100%{ width:70%;}  }
+@-moz-keyframes percent71  { 0%  { width:0px;} 100%{ width:71%;}  }
+@-moz-keyframes percent72  { 0%  { width:0px;} 100%{ width:72%;}  }
+@-moz-keyframes percent73  { 0%  { width:0px;} 100%{ width:73%;}  }
+@-moz-keyframes percent74 { 0%  { width:0px;} 100%{ width:74%;}  }
+@-moz-keyframes percent75  { 0%  { width:0px;} 100%{ width:75%;}  }
+@-moz-keyframes percent66  { 0%  { width:0px;} 100%{ width:76%;}  }
+@-moz-keyframes percent77 { 0%  { width:0px;} 100%{ width:77%;}  }
+@-moz-keyframes percent78  { 0%  { width:0px;} 100%{ width:78%;}  }
+@-moz-keyframes percent79  { 0%  { width:0px;} 100%{ width:79%;}  }
+@-moz-keyframes percent80  { 0%  { width:0px;} 100%{ width:80%;}  }
+@-moz-keyframes percent81  { 0%  { width:0px;} 100%{ width:81%;}  }
+@-moz-keyframes percent82  { 0%  { width:0px;} 100%{ width:82%;}  }
+@-moz-keyframes percent83  { 0%  { width:0px;} 100%{ width:83%;}  }
+@-moz-keyframes percent84 { 0%  { width:0px;} 100%{ width:84%;}  }
+@-moz-keyframes percent85  { 0%  { width:0px;} 100%{ width:85%;}  }
+@-moz-keyframes percent86  { 0%  { width:0px;} 100%{ width:86%;}  }
+@-moz-keyframes percent87 { 0%  { width:0px;} 100%{ width:87%;}  }
+@-moz-keyframes percent88  { 0%  { width:0px;} 100%{ width:88%;}  }
+@-moz-keyframes percent89  { 0%  { width:0px;} 100%{ width:89%;}  }
+@-moz-keyframes percent90  { 0%  { width:0px;} 100%{ width:90%;}  }
+@-moz-keyframes percent91  { 0%  { width:0px;} 100%{ width:91%;}  }
+@-moz-keyframes percent92  { 0%  { width:0px;} 100%{ width:92%;}  }
+@-moz-keyframes percent93  { 0%  { width:0px;} 100%{ width:93%;}  }
+@-moz-keyframes percent94 { 0%  { width:0px;} 100%{ width:94%;}  }
+@-moz-keyframes percent95  { 0%  { width:0px;} 100%{ width:95%;}  }
+@-moz-keyframes percent96  { 0%  { width:0px;} 100%{ width:96%;}  }
+@-moz-keyframes percent97 { 0%  { width:0px;} 100%{ width:97%;}  }
+@-moz-keyframes percent98  { 0%  { width:0px;} 100%{ width:98%;}  }
+@-moz-keyframes percent99  { 0%  { width:0px;} 100%{ width:99%;}  }
+@-moz-keyframes percent100  { 0%  { width:0px;} 100%{ width:100%;}  }
+
+@-webkit-keyframes percent1  { 0%  { width:0px;} 100%{ width:1%;}  }
+@-webkit-keyframes percent2  { 0%  { width:0px;} 100%{ width:2%;}  }
+@-webkit-keyframes percent3  { 0%  { width:0px;} 100%{ width:3%;}  }
+@-webkit-keyframes percent4 { 0%  { width:0px;} 100%{ width:4%;}  }
+@-webkit-keyframes percent5  { 0%  { width:0px;} 100%{ width:5%;}  }
+@-webkit-keyframes percent6  { 0%  { width:0px;} 100%{ width:6%;}  }
+@-webkit-keyframes percent7 { 0%  { width:0px;} 100%{ width:7%;}  }
+@-webkit-keyframes percent8  { 0%  { width:0px;} 100%{ width:8%;}  }
+@-webkit-keyframes percent9  { 0%  { width:0px;} 100%{ width:9%;}  }
+@-webkit-keyframes percent10  { 0%  { width:0px;} 100%{ width:10%;}  }
+@-webkit-keyframes percent11  { 0%  { width:0px;} 100%{ width:11%;}  }
+@-webkit-keyframes percent12  { 0%  { width:0px;} 100%{ width:12%;}  }
+@-webkit-keyframes percent13  { 0%  { width:0px;} 100%{ width:13%;}  }
+@-webkit-keyframes percent14 { 0%  { width:0px;} 100%{ width:14%;}  }
+@-webkit-keyframes percent15  { 0%  { width:0px;} 100%{ width:15%;}  }
+@-webkit-keyframes percent16  { 0%  { width:0px;} 100%{ width:16%;}  }
+@-webkit-keyframes percent17 { 0%  { width:0px;} 100%{ width:17%;}  }
+@-webkit-keyframes percent18  { 0%  { width:0px;} 100%{ width:18%;}  }
+@-webkit-keyframes percent19  { 0%  { width:0px;} 100%{ width:19%;}  }
+@-webkit-keyframes percent20  { 0%  { width:0px;} 100%{ width:20%;}  }
+@-webkit-keyframes percent21  { 0%  { width:0px;} 100%{ width:21%;}  }
+@-webkit-keyframes percent22  { 0%  { width:0px;} 100%{ width:22%;}  }
+@-webkit-keyframes percent23  { 0%  { width:0px;} 100%{ width:23%;}  }
+@-webkit-keyframes percent24 { 0%  { width:0px;} 100%{ width:24%;}  }
+@-webkit-keyframes percent25  { 0%  { width:0px;} 100%{ width:25%;}  }
+@-webkit-keyframes percent26  { 0%  { width:0px;} 100%{ width:26%;}  }
+@-webkit-keyframes percent27 { 0%  { width:0px;} 100%{ width:27%;}  }
+@-webkit-keyframes percent28  { 0%  { width:0px;} 100%{ width:28%;}  }
+@-webkit-keyframes percent29  { 0%  { width:0px;} 100%{ width:29%;}  }
+@-webkit-keyframes percent30  { 0%  { width:0px;} 100%{ width:30%;}  }
+@-webkit-keyframes percent31  { 0%  { width:0px;} 100%{ width:31%;}  }
+@-webkit-keyframes percent32  { 0%  { width:0px;} 100%{ width:32%;}  }
+@-webkit-keyframes percent33  { 0%  { width:0px;} 100%{ width:33%;}  }
+@-webkit-keyframes percent34 { 0%  { width:0px;} 100%{ width:34%;}  }
+@-webkit-keyframes percent35  { 0%  { width:0px;} 100%{ width:35%;}  }
+@-webkit-keyframes percent36  { 0%  { width:0px;} 100%{ width:36%;}  }
+@-webkit-keyframes percent37 { 0%  { width:0px;} 100%{ width:37%;}  }
+@-webkit-keyframes percent38  { 0%  { width:0px;} 100%{ width:38%;}  }
+@-webkit-keyframes percent39  { 0%  { width:0px;} 100%{ width:39%;}  }
+@-webkit-keyframes percent40  { 0%  { width:0px;} 100%{ width:40%;}  }
+@-webkit-keyframes percent41  { 0%  { width:0px;} 100%{ width:41%;}  }
+@-webkit-keyframes percent42  { 0%  { width:0px;} 100%{ width:42%;}  }
+@-webkit-keyframes percent43  { 0%  { width:0px;} 100%{ width:43%;}  }
+@-webkit-keyframes percent44 { 0%  { width:0px;} 100%{ width:44%;}  }
+@-webkit-keyframes percent45  { 0%  { width:0px;} 100%{ width:45%;}  }
+@-webkit-keyframes percent46  { 0%  { width:0px;} 100%{ width:46%;}  }
+@-webkit-keyframes percent47 { 0%  { width:0px;} 100%{ width:47%;}  }
+@-webkit-keyframes percent48  { 0%  { width:0px;} 100%{ width:48%;}  }
+@-webkit-keyframes percent49  { 0%  { width:0px;} 100%{ width:49%;}  }
+@-webkit-keyframes percent50  { 0%  { width:0px;} 100%{ width:50%;}  }
+@-webkit-keyframes percent51  { 0%  { width:0px;} 100%{ width:51%;}  }
+@-webkit-keyframes percent52  { 0%  { width:0px;} 100%{ width:52%;}  }
+@-webkit-keyframes percent53  { 0%  { width:0px;} 100%{ width:53%;}  }
+@-webkit-keyframes percent54 { 0%  { width:0px;} 100%{ width:54%;}  }
+@-webkit-keyframes percent55  { 0%  { width:0px;} 100%{ width:55%;}  }
+@-webkit-keyframes percent56  { 0%  { width:0px;} 100%{ width:56%;}  }
+@-webkit-keyframes percent57 { 0%  { width:0px;} 100%{ width:57%;}  }
+@-webkit-keyframes percent58  { 0%  { width:0px;} 100%{ width:58%;}  }
+@-webkit-keyframes percent59  { 0%  { width:0px;} 100%{ width:59%;}  }
+@-webkit-keyframes percent60  { 0%  { width:0px;} 100%{ width:60%;}  }
+@-webkit-keyframes percent61  { 0%  { width:0px;} 100%{ width:61%;}  }
+@-webkit-keyframes percent62  { 0%  { width:0px;} 100%{ width:62%;}  }
+@-webkit-keyframes percent63  { 0%  { width:0px;} 100%{ width:63%;}  }
+@-webkit-keyframes percent64 { 0%  { width:0px;} 100%{ width:64%;}  }
+@-webkit-keyframes percent65  { 0%  { width:0px;} 100%{ width:65%;}  }
+@-webkit-keyframes percent66  { 0%  { width:0px;} 100%{ width:66%;}  }
+@-webkit-keyframes percent67 { 0%  { width:0px;} 100%{ width:67%;}  }
+@-webkit-keyframes percent68  { 0%  { width:0px;} 100%{ width:68%;}  }
+@-webkit-keyframes percent69  { 0%  { width:0px;} 100%{ width:69%;}  }
+@-webkit-keyframes percent70  { 0%  { width:0px;} 100%{ width:70%;}  }
+@-webkit-keyframes percent71  { 0%  { width:0px;} 100%{ width:71%;}  }
+@-webkit-keyframes percent72  { 0%  { width:0px;} 100%{ width:72%;}  }
+@-webkit-keyframes percent73  { 0%  { width:0px;} 100%{ width:73%;}  }
+@-webkit-keyframes percent74 { 0%  { width:0px;} 100%{ width:74%;}  }
+@-webkit-keyframes percent75  { 0%  { width:0px;} 100%{ width:75%;}  }
+@-webkit-keyframes percent66  { 0%  { width:0px;} 100%{ width:76%;}  }
+@-webkit-keyframes percent77 { 0%  { width:0px;} 100%{ width:77%;}  }
+@-webkit-keyframes percent78  { 0%  { width:0px;} 100%{ width:78%;}  }
+@-webkit-keyframes percent79  { 0%  { width:0px;} 100%{ width:79%;}  }
+@-webkit-keyframes percent80  { 0%  { width:0px;} 100%{ width:80%;}  }
+@-webkit-keyframes percent81  { 0%  { width:0px;} 100%{ width:81%;}  }
+@-webkit-keyframes percent82  { 0%  { width:0px;} 100%{ width:82%;}  }
+@-webkit-keyframes percent83  { 0%  { width:0px;} 100%{ width:83%;}  }
+@-webkit-keyframes percent84 { 0%  { width:0px;} 100%{ width:84%;}  }
+@-webkit-keyframes percent85  { 0%  { width:0px;} 100%{ width:85%;}  }
+@-webkit-keyframes percent86  { 0%  { width:0px;} 100%{ width:86%;}  }
+@-webkit-keyframes percent87 { 0%  { width:0px;} 100%{ width:87%;}  }
+@-webkit-keyframes percent88  { 0%  { width:0px;} 100%{ width:88%;}  }
+@-webkit-keyframes percent89  { 0%  { width:0px;} 100%{ width:89%;}  }
+@-webkit-keyframes percent90  { 0%  { width:0px;} 100%{ width:90%;}  }
+@-webkit-keyframes percent91  { 0%  { width:0px;} 100%{ width:91%;}  }
+@-webkit-keyframes percent92  { 0%  { width:0px;} 100%{ width:92%;}  }
+@-webkit-keyframes percent93  { 0%  { width:0px;} 100%{ width:93%;}  }
+@-webkit-keyframes percent94 { 0%  { width:0px;} 100%{ width:94%;}  }
+@-webkit-keyframes percent95  { 0%  { width:0px;} 100%{ width:95%;}  }
+@-webkit-keyframes percent96  { 0%  { width:0px;} 100%{ width:96%;}  }
+@-webkit-keyframes percent97 { 0%  { width:0px;} 100%{ width:97%;}  }
+@-webkit-keyframes percent98  { 0%  { width:0px;} 100%{ width:98%;}  }
+@-webkit-keyframes percent99  { 0%  { width:0px;} 100%{ width:99%;}  }
+@-webkit-keyframes percent100  { 0%  { width:0px;} 100%{ width:100%;}  }
+
+
+/* Circle Skill */
+
+.skill-circle {  
+    width: 25%;
+     display: inline-block;
+     text-align: center;
+    .chart {
+        width: auto;
+        height: auto;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        canvas {
+          position: static;
+       }
+    }
+    .chart-wrapper {
+        position: relative;
+    }
+
+    .chart-per {
+        @include font-size(3.8);
+        font-weight: 700;
+        position: absolute;
+        bottom: 70px;     
+        left:65px;
+        color: $secondary;
+    }
+    .label {
+        @include font-size(2);
+        font-weight: 600;
+        text-align: center;
+        margin-left: 30px;
+        margin-right: 30px;
+        color: $secondary;
+    }
+}
+
+
+
+
+
+
+@import "footer";
+
+@import "sidebar";

@@ -1,0 +1,2033 @@
+# Copyright (C) 2017 BeautifyPro
+# This file is distributed under the same license as the BeautifyPro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BeautifyPro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:50
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35, comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+msgid " Previous Comments"
+msgstr ""
+
+#: comments.php:37, comments.php:54
+msgid "Next Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Previous Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Post Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:83
+msgid "Name"
+msgstr ""
+
+#: comments.php:88
+msgid "Email"
+msgstr ""
+
+#: comments.php:93
+msgid "Website"
+msgstr ""
+
+#: footer-widgets.php:38
+msgid "Meta"
+msgstr ""
+
+#: footer-widgets.php:51
+msgid "Archives"
+msgstr ""
+
+#: functions.php:72, header.php:82
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:25, template-landing-page.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: portfolio.php:2
+msgid "Portfolio"
+msgstr ""
+
+#: portfolio.php:157, admin/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr ""
+
+#: portfolio.php:193
+msgstr ""
+
+#: portfolio.php:230, single-portfolio.php:134
+msgid "Page Not Found"
+msgstr ""
+
+#: portfolio.php:236, single-portfolio.php:140
+msgid "The page you were looking for was not found!. You can return %s or search for the page you were looking for."
+msgstr ""
+
+#: portfolio.php:236, single-portfolio.php:140, admin/theme-options.php:55, includes/template-tags.php:470
+msgid "Home"
+msgstr ""
+
+#: portfolio.php:236, single-portfolio.php:140
+msgid "&larr; Home"
+msgstr ""
+
+#: portfolio.php:244, single-portfolio.php:148
+msgid "This is the error message in the page.php template."
+msgstr ""
+
+#: single-portfolio.php:37, single-portfolio.php:111
+msgid "Project Description"
+msgstr ""
+
+#: single-portfolio.php:42, single-portfolio.php:84
+msgid "Skill needed"
+msgstr ""
+
+#: single-portfolio.php:44, single-portfolio.php:86
+msgid "Category"
+msgstr ""
+
+#: single-portfolio.php:47, single-portfolio.php:89
+msgid "Project Website"
+msgstr ""
+
+#: single-portfolio.php:80
+msgid "Project Details"
+msgstr ""
+
+#: single-portfolio.php:82
+msgid "Project Date"
+msgstr ""
+
+#: single-post-fullwidth.php:27
+msgid "Share this on ..."
+msgstr ""
+
+#: single-post-fullwidth.php:76, single.php:83
+msgid "About Author:"
+msgstr ""
+
+#: template-blog.php:2, admin/theme-options.php:1138
+msgid "Blog Page"
+msgstr ""
+
+#: template-full-width.php:2
+msgid "Page Full Width"
+msgstr ""
+
+#: template-landing-page.php:2
+msgid "Landing Page"
+msgstr ""
+
+#: admin/theme-options.php:23
+msgid "Site Identity"
+msgstr ""
+
+#: admin/theme-options.php:24
+msgid "Site Header Options"
+msgstr ""
+
+#: admin/theme-options.php:30
+msgid "Enable Logo as Title"
+msgstr ""
+
+#: admin/theme-options.php:35, admin/theme-options.php:46, admin/theme-options.php:74, admin/theme-options.php:95, admin/theme-options.php:152, admin/theme-options.php:231, admin/theme-options.php:283, admin/theme-options.php:473, admin/theme-options.php:502, admin/theme-options.php:536, admin/theme-options.php:585, admin/theme-options.php:626, admin/theme-options.php:668, admin/theme-options.php:710, admin/theme-options.php:752, admin/theme-options.php:794, admin/theme-options.php:844, admin/theme-options.php:900, admin/theme-options.php:1089, admin/theme-options.php:1165, admin/theme-options.php:1208, admin/theme-options.php:1244, admin/theme-options.php:1288, admin/theme-options.php:1320, admin/theme-options.php:1331, admin/theme-options.php:1362, admin/theme-options.php:1374, admin/theme-options.php:1388, admin/theme-options.php:1406, admin/theme-options.php:1424, admin/theme-options.php:1442, admin/theme-options.php:1461, admin/theme-options.php:1494, admin/theme-options.php:1680, admin/theme-options.php:1721, admin/theme-options.php:1914, admin/theme-options.php:2100, admin/theme-options.php:2143, admin/theme-options.php:2501, admin/theme-options.php:2552, admin/theme-options.php:2615, admin/theme-options.php:2639
+msgid "Enable"
+msgstr ""
+
+#: admin/theme-options.php:36, admin/theme-options.php:47, admin/theme-options.php:75, admin/theme-options.php:96, admin/theme-options.php:153, admin/theme-options.php:232, admin/theme-options.php:284, admin/theme-options.php:474, admin/theme-options.php:503, admin/theme-options.php:537, admin/theme-options.php:586, admin/theme-options.php:627, admin/theme-options.php:669, admin/theme-options.php:711, admin/theme-options.php:753, admin/theme-options.php:795, admin/theme-options.php:845, admin/theme-options.php:901, admin/theme-options.php:1090, admin/theme-options.php:1166, admin/theme-options.php:1209, admin/theme-options.php:1245, admin/theme-options.php:1289, admin/theme-options.php:1321, admin/theme-options.php:1332, admin/theme-options.php:1363, admin/theme-options.php:1375, admin/theme-options.php:1389, admin/theme-options.php:1407, admin/theme-options.php:1425, admin/theme-options.php:1443, admin/theme-options.php:1462, admin/theme-options.php:1495, admin/theme-options.php:1681, admin/theme-options.php:1722, admin/theme-options.php:1915, admin/theme-options.php:2101, admin/theme-options.php:2144, admin/theme-options.php:2502, admin/theme-options.php:2553, admin/theme-options.php:2616, admin/theme-options.php:2640
+msgid "Disable"
+msgstr ""
+
+#: admin/theme-options.php:42
+msgid "Show site Tagline"
+msgstr ""
+
+#: admin/theme-options.php:56
+msgid "Home Page Related Options"
+msgstr ""
+
+#: admin/theme-options.php:63
+msgid "PRO Home - General Settings"
+msgstr ""
+
+#: admin/theme-options.php:64
+msgid "Home Page options"
+msgstr ""
+
+#: admin/theme-options.php:70
+msgid "Enable Home Page Default Content"
+msgstr ""
+
+#: admin/theme-options.php:78
+msgid "Use pagebuilder to built pro home page (or) Use prebuilt layout"
+msgstr ""
+
+#: admin/theme-options.php:85
+msgid "Slider Section"
+msgstr ""
+
+#: admin/theme-options.php:86
+msgid "Home Page Slider Related Options"
+msgstr ""
+
+#: admin/theme-options.php:91
+msgid "Enable Slider Post ( Section )"
+msgstr ""
+
+#: admin/theme-options.php:99
+msgid "Enable Slider Post in home page"
+msgstr ""
+
+#: admin/theme-options.php:104
+msgid "Slider Posts category"
+msgstr ""
+
+#: admin/theme-options.php:115
+msgid "Create post ( Goto Dashboard => Post => Add New ) and Post Featured Image ( Preferred size is 1200 x 450 pixels ) as taken as slider image and Post Content as taken as Flexcaption."
+msgstr ""
+
+#: admin/theme-options.php:119
+msgid "No. of Sliders"
+msgstr ""
+
+#: admin/theme-options.php:135
+msgid "Enter number of slides you want to display under your selected Category"
+msgstr ""
+
+#: admin/theme-options.php:141
+msgid "Service Section"
+msgstr ""
+
+#: admin/theme-options.php:142
+msgid "Home Page - Service Related Options"
+msgstr ""
+
+#: admin/theme-options.php:148
+msgid "Enable Service Section"
+msgstr ""
+
+#: admin/theme-options.php:156
+msgid "Enable Service section in home page"
+msgstr ""
+
+#: admin/theme-options.php:160
+msgid "Service Section Title & Description"
+msgstr ""
+
+#: admin/theme-options.php:176
+msgid "Service Section Icons #%1$s"
+msgstr ""
+
+#: admin/theme-options.php:179
+msgid "%1$s (fa fa-apple) "
+msgstr ""
+
+#: admin/theme-options.php:191
+msgid "Service Section #%1$s"
+msgstr ""
+
+#: admin/theme-options.php:204
+msgid "Choose Service Section Icons #%1$s"
+msgstr ""
+
+#: admin/theme-options.php:220
+msgid "Image Content Section"
+msgstr ""
+
+#: admin/theme-options.php:221
+msgid "Home Page - Related Options"
+msgstr ""
+
+#: admin/theme-options.php:227
+msgid "Enable Image content Section"
+msgstr ""
+
+#: admin/theme-options.php:235
+msgid "Enable Image content section in home page"
+msgstr ""
+
+#: admin/theme-options.php:239
+msgid "Image Section Title & Description"
+msgstr ""
+
+#: admin/theme-options.php:255
+msgid "Image Contenr Section #%1$s"
+msgstr ""
+
+#: admin/theme-options.php:272
+msgid "Latest Blog Section"
+msgstr ""
+
+#: admin/theme-options.php:273
+msgid "Home Page - Latest Blog Options"
+msgstr ""
+
+#: admin/theme-options.php:279
+msgid "Enable Recent Post Section"
+msgstr ""
+
+#: admin/theme-options.php:288
+msgid "Enable recent post section in home page"
+msgstr ""
+
+#: admin/theme-options.php:292
+msgid "Recent Post Section Title & Description"
+msgstr ""
+
+#: admin/theme-options.php:307
+msgid "No. of Recent Posts"
+msgstr ""
+
+#: admin/theme-options.php:330, admin/theme-options.php:518, admin/theme-options.php:519
+msgid "General Settings"
+msgstr ""
+
+#: admin/theme-options.php:331
+msgid "general settings"
+msgstr ""
+
+#: admin/theme-options.php:336
+msgid "Page Title Bar & Breadcrumb"
+msgstr ""
+
+#: admin/theme-options.php:337
+msgid "Page Title bar related options"
+msgstr ""
+
+#: admin/theme-options.php:342
+msgid "Check the box if you want to use a global page title bar settings. This option overrides the page options"
+msgstr ""
+
+#: admin/theme-options.php:350
+msgid "Page Title Bar"
+msgstr ""
+
+#: admin/theme-options.php:355
+msgid "Show Bar and Content"
+msgstr ""
+
+#: admin/theme-options.php:356, admin/theme-options.php:368
+msgid "Hide"
+msgstr ""
+
+#: admin/theme-options.php:362
+msgid "Page Title Bar Text"
+msgstr ""
+
+#: admin/theme-options.php:367
+msgid "Show"
+msgstr ""
+
+#: admin/theme-options.php:374
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: admin/theme-options.php:382
+msgid "Breadcrumb Character"
+msgstr ""
+
+#: admin/theme-options.php:387
+msgid " >> "
+msgstr ""
+
+#: admin/theme-options.php:388
+msgid " / "
+msgstr ""
+
+#: admin/theme-options.php:389
+msgid " > "
+msgstr ""
+
+#: admin/theme-options.php:405
+msgid "Pagination"
+msgstr ""
+
+#: admin/theme-options.php:406
+msgid "Pagination related options"
+msgstr ""
+
+#: admin/theme-options.php:411
+msgid "Numeric Pagination"
+msgstr ""
+
+#: admin/theme-options.php:415
+msgid "Numbered"
+msgstr ""
+
+#: admin/theme-options.php:416
+msgid "Next/Previous"
+msgstr ""
+
+#: admin/theme-options.php:424
+msgid "Skin Color"
+msgstr ""
+
+#: admin/theme-options.php:425
+msgid "Color Settings"
+msgstr ""
+
+#: admin/theme-options.php:430
+msgid "Color Scheme"
+msgstr ""
+
+#: admin/theme-options.php:431, admin/theme-options.php:438
+msgid "Select your color scheme"
+msgstr ""
+
+#: admin/theme-options.php:469
+msgid "Enable Custom color scheme"
+msgstr ""
+
+#: admin/theme-options.php:480
+msgid "Select custom color scheme"
+msgstr ""
+
+#: admin/theme-options.php:498
+msgid "Enable this Option to change color choosen by pagebuilder"
+msgstr ""
+
+#: admin/theme-options.php:506
+msgid "while change the color scheme this option is also change the pagebuilder row and widget related option color in order to match color scheme"
+msgstr ""
+
+#: admin/theme-options.php:513
+msgid "Typography"
+msgstr ""
+
+#: admin/theme-options.php:514
+msgid "Typography and Link Color Settings"
+msgstr ""
+
+#: admin/theme-options.php:525
+msgid "Body Font"
+msgstr ""
+
+#: admin/theme-options.php:526
+msgid "Specify the body font properties"
+msgstr ""
+
+#: admin/theme-options.php:532
+msgid "Enable Custom body Settings"
+msgstr ""
+
+#: admin/theme-options.php:539
+msgid "Turn on to body typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:546
+msgid "Body Settings"
+msgstr ""
+
+#: admin/theme-options.php:574
+msgid "Heading Font"
+msgstr ""
+
+#: admin/theme-options.php:575
+msgid "Specify typography of H1, H2, H3, H4, H5, H6"
+msgstr ""
+
+#: admin/theme-options.php:581
+msgid "Enable Custom H1 Settings"
+msgstr ""
+
+#: admin/theme-options.php:588
+msgid "Turn on to H1 typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:595
+msgid "H1 Settings"
+msgstr ""
+
+#: admin/theme-options.php:622
+msgid "Enable Custom H2 Settings"
+msgstr ""
+
+#: admin/theme-options.php:629
+msgid "Turn on to H2 typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:636
+msgid "H2 Settings"
+msgstr ""
+
+#: admin/theme-options.php:664
+msgid "Enable Custom H3 Settings"
+msgstr ""
+
+#: admin/theme-options.php:671
+msgid "Turn on to H3 typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:678
+msgid "H3 Settings"
+msgstr ""
+
+#: admin/theme-options.php:706
+msgid "Enable Custom H4 Settings"
+msgstr ""
+
+#: admin/theme-options.php:713
+msgid "Turn on to H4 typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:720
+msgid "H4 Settings"
+msgstr ""
+
+#: admin/theme-options.php:748
+msgid "Enable Custom H5 Settings"
+msgstr ""
+
+#: admin/theme-options.php:755
+msgid "Turn on to H5 typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:763
+msgid "H5 Settings"
+msgstr ""
+
+#: admin/theme-options.php:790
+msgid "Enable Custom H6 Settings"
+msgstr ""
+
+#: admin/theme-options.php:797
+msgid "Turn on to H6 typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:805
+msgid "H6 Settings"
+msgstr ""
+
+#: admin/theme-options.php:833
+msgid "Navigation Font"
+msgstr ""
+
+#: admin/theme-options.php:834
+msgid "Specify Navigation font properties"
+msgstr ""
+
+#: admin/theme-options.php:840
+msgid "Enable Navigation Font Settings"
+msgstr ""
+
+#: admin/theme-options.php:847
+msgid "Turn on to Navigation Font typography and turn off for default typography"
+msgstr ""
+
+#: admin/theme-options.php:853
+msgid "Navigation Font Settings"
+msgstr ""
+
+#: admin/theme-options.php:883
+msgid "Header"
+msgstr ""
+
+#: admin/theme-options.php:884
+msgid "Header Related Options"
+msgstr ""
+
+#: admin/theme-options.php:890
+msgid "Sticky Menu"
+msgstr ""
+
+#: admin/theme-options.php:891
+msgid "sticky header"
+msgstr ""
+
+#: admin/theme-options.php:896
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: admin/theme-options.php:907
+msgid "Enable Sticky Header Position"
+msgstr ""
+
+#: admin/theme-options.php:911, admin/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr ""
+
+#: admin/theme-options.php:912, admin/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr ""
+
+#: admin/theme-options.php:954
+msgid "Header Background Video & Image"
+msgstr ""
+
+#: admin/theme-options.php:955
+msgid "Custom Header Video & Image options"
+msgstr ""
+
+#: admin/theme-options.php:961
+msgid "Header Background Size"
+msgstr ""
+
+#: admin/theme-options.php:965, admin/theme-options.php:1569, admin/theme-options.php:1989, admin/theme-options.php:2248, admin/theme-options.php:2391, admin/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr ""
+
+#: admin/theme-options.php:966, admin/theme-options.php:1570, admin/theme-options.php:1990, admin/theme-options.php:2249, admin/theme-options.php:2392, admin/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr ""
+
+#: admin/theme-options.php:967, admin/theme-options.php:1571, admin/theme-options.php:1991, admin/theme-options.php:2250, admin/theme-options.php:2393
+msgid "Auto"
+msgstr ""
+
+#: admin/theme-options.php:968, admin/theme-options.php:1572, admin/theme-options.php:1992, admin/theme-options.php:2251, admin/theme-options.php:2394, admin/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr ""
+
+#: admin/theme-options.php:984
+msgid "Header Background Image Size"
+msgstr ""
+
+#: admin/theme-options.php:1001
+msgid "Header Background Repeat"
+msgstr ""
+
+#: admin/theme-options.php:1006, admin/theme-options.php:1597, admin/theme-options.php:2017, admin/theme-options.php:2220, admin/theme-options.php:2358, admin/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr ""
+
+#: admin/theme-options.php:1007, admin/theme-options.php:1598, admin/theme-options.php:2018, admin/theme-options.php:2221, admin/theme-options.php:2359
+msgid "Repeat"
+msgstr ""
+
+#: admin/theme-options.php:1008, admin/theme-options.php:1599, admin/theme-options.php:2019, admin/theme-options.php:2222, admin/theme-options.php:2360, admin/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/theme-options.php:1009, admin/theme-options.php:1600, admin/theme-options.php:2020, admin/theme-options.php:2223, admin/theme-options.php:2361, admin/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/theme-options.php:1028
+msgid "Header Background Position"
+msgstr ""
+
+#: admin/theme-options.php:1033, admin/theme-options.php:1624, admin/theme-options.php:2044, admin/theme-options.php:2301, admin/theme-options.php:2454, admin/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr ""
+
+#: admin/theme-options.php:1034, admin/theme-options.php:1625, admin/theme-options.php:2045, admin/theme-options.php:2302, admin/theme-options.php:2455, admin/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr ""
+
+#: admin/theme-options.php:1035, admin/theme-options.php:1626, admin/theme-options.php:2046, admin/theme-options.php:2303, admin/theme-options.php:2456, admin/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/theme-options.php:1036, admin/theme-options.php:1627, admin/theme-options.php:2047, admin/theme-options.php:2304, admin/theme-options.php:2457, admin/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr ""
+
+#: admin/theme-options.php:1037, admin/theme-options.php:1628, admin/theme-options.php:2048, admin/theme-options.php:2305, admin/theme-options.php:2458, admin/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr ""
+
+#: admin/theme-options.php:1038, admin/theme-options.php:1629, admin/theme-options.php:2049, admin/theme-options.php:2306, admin/theme-options.php:2459, admin/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/theme-options.php:1039, admin/theme-options.php:1630, admin/theme-options.php:2050, admin/theme-options.php:2307, admin/theme-options.php:2460, admin/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr ""
+
+#: admin/theme-options.php:1040, admin/theme-options.php:1631, admin/theme-options.php:2051, admin/theme-options.php:2308, admin/theme-options.php:2461, admin/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr ""
+
+#: admin/theme-options.php:1041, admin/theme-options.php:1632, admin/theme-options.php:2052, admin/theme-options.php:2309, admin/theme-options.php:2462, admin/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/theme-options.php:1060
+msgid "Header Background Attachment"
+msgstr ""
+
+#: admin/theme-options.php:1065, admin/theme-options.php:1656, admin/theme-options.php:2076, admin/theme-options.php:2276, admin/theme-options.php:2424, admin/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr ""
+
+#: admin/theme-options.php:1066, admin/theme-options.php:1657, admin/theme-options.php:2077, admin/theme-options.php:2277, admin/theme-options.php:2425, admin/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr ""
+
+#: admin/theme-options.php:1085
+msgid "Enable Header( Background ) Overlay"
+msgstr ""
+
+#: admin/theme-options.php:1097
+msgid "Header Overlay ( Background )color"
+msgstr ""
+
+#: admin/theme-options.php:1134
+msgid "Blog"
+msgstr ""
+
+#: admin/theme-options.php:1135, admin/theme-options.php:1139
+msgid "Blog Related Options"
+msgstr ""
+
+#: admin/theme-options.php:1145
+msgid "Select Blog Page Layout you prefer"
+msgstr ""
+
+#: admin/theme-options.php:1150
+msgid "Default ( One Column )"
+msgstr ""
+
+#: admin/theme-options.php:1151
+msgid "Two Columns "
+msgstr ""
+
+#: admin/theme-options.php:1152
+msgid "Three Columns ( Without Sidebar ) "
+msgstr ""
+
+#: admin/theme-options.php:1153
+msgid "Two Columns With Masonry"
+msgstr ""
+
+#: admin/theme-options.php:1154
+msgid "Three Columns With Masonry ( Without Sidebar ) "
+msgstr ""
+
+#: admin/theme-options.php:1155
+msgid "Blog FullWidth"
+msgstr ""
+
+#: admin/theme-options.php:1161
+msgid "Enable Featured Image"
+msgstr ""
+
+#: admin/theme-options.php:1169
+msgid "Enable Featured Image for blog page"
+msgstr ""
+
+#: admin/theme-options.php:1173
+msgid "More Text"
+msgstr ""
+
+#: admin/theme-options.php:1176
+msgid "Text to display in case of text too long"
+msgstr ""
+
+#: admin/theme-options.php:1177, includes/hooks-filters.php:71
+msgid "Read More"
+msgstr ""
+
+#: admin/theme-options.php:1181
+msgid "Choose the Featured Image Size for Blog Page"
+msgstr ""
+
+#: admin/theme-options.php:1186, admin/theme-options.php:1300
+msgid "Large Featured Image"
+msgstr ""
+
+#: admin/theme-options.php:1187, admin/theme-options.php:1301
+msgid "Small Featured Image"
+msgstr ""
+
+#: admin/theme-options.php:1188
+msgid "Original Size"
+msgstr ""
+
+#: admin/theme-options.php:1189
+msgid "Medium"
+msgstr ""
+
+#: admin/theme-options.php:1190
+msgid "Large"
+msgstr ""
+
+#: admin/theme-options.php:1200
+msgid "Set large and medium image size: Goto Dashboard => Settings => Media"
+msgstr ""
+
+#: admin/theme-options.php:1204
+msgid "Enable to display top post meta data"
+msgstr ""
+
+#: admin/theme-options.php:1212, admin/theme-options.php:1247
+msgid "Enable to Display Top Post Meta Details. This will reflect for blog page, single blog page, blog full width & blog large templates"
+msgstr ""
+
+#: admin/theme-options.php:1216
+msgid "Activate and Arrange the Order of Top Post Meta elements"
+msgstr ""
+
+#: admin/theme-options.php:1220, admin/theme-options.php:1256
+msgid "date"
+msgstr ""
+
+#: admin/theme-options.php:1221, admin/theme-options.php:1257
+msgid "author"
+msgstr ""
+
+#: admin/theme-options.php:1222, admin/theme-options.php:1258
+msgid "comment"
+msgstr ""
+
+#: admin/theme-options.php:1223, admin/theme-options.php:1259
+msgid "category"
+msgstr ""
+
+#: admin/theme-options.php:1224, admin/theme-options.php:1260
+msgid "tags"
+msgstr ""
+
+#: admin/theme-options.php:1225, admin/theme-options.php:1261
+msgid "edit"
+msgstr ""
+
+#: admin/theme-options.php:1235, admin/theme-options.php:1271
+msgid "Click above eye icon in order to activate the field, This will reflect for blog page, single blog page, blog full width & blog large templates"
+msgstr ""
+
+#: admin/theme-options.php:1240
+msgid "Enable to display bottom post meta data"
+msgstr ""
+
+#: admin/theme-options.php:1252
+msgid "Activate and arrange the Order of Bottom Post Meta elements"
+msgstr ""
+
+#: admin/theme-options.php:1278
+msgid "Single Blog Page"
+msgstr ""
+
+#: admin/theme-options.php:1279
+msgid "Single Blog Page Related Options"
+msgstr ""
+
+#: admin/theme-options.php:1284
+msgid "Enable Single Post Featured Image"
+msgstr ""
+
+#: admin/theme-options.php:1292
+msgid "Enable Featured Image for Single Post Page"
+msgstr ""
+
+#: admin/theme-options.php:1296
+msgid "Choose the featured image display type for Single Post Page"
+msgstr ""
+
+#: admin/theme-options.php:1302
+msgid "FullWidth Featured Image"
+msgstr ""
+
+#: admin/theme-options.php:1316
+msgid "Enable Author Bio Box below single post"
+msgstr ""
+
+#: admin/theme-options.php:1327
+msgid "Show Related Posts"
+msgstr ""
+
+#: admin/theme-options.php:1335
+msgid "Show the Related Post for Single Blog Page"
+msgstr ""
+
+#: admin/theme-options.php:1339
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: admin/theme-options.php:1343
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: admin/theme-options.php:1344
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: admin/theme-options.php:1354
+msgid "Select the Hierarchy"
+msgstr ""
+
+#: admin/theme-options.php:1358
+msgid " Show Comments"
+msgstr ""
+
+#: admin/theme-options.php:1366
+msgid "Show the Comments for Single Blog Page"
+msgstr ""
+
+#: admin/theme-options.php:1370
+msgid "Show social sharing options box below single post"
+msgstr ""
+
+#: admin/theme-options.php:1384
+msgid "Enable facebook sharing option below single post"
+msgstr ""
+
+#: admin/theme-options.php:1402
+msgid "Enable twitter sharing option below single post"
+msgstr ""
+
+#: admin/theme-options.php:1420
+msgid "Enable linkedin sharing option below single post"
+msgstr ""
+
+#: admin/theme-options.php:1438
+msgid "Enable googleplus sharing option below single post"
+msgstr ""
+
+#: admin/theme-options.php:1457
+msgid "Enable email sharing option below single post"
+msgstr ""
+
+#: admin/theme-options.php:1477, admin/theme-options.php:1482, admin/theme-options.php:1897, admin/theme-options.php:1902
+msgid "Footer"
+msgstr ""
+
+#: admin/theme-options.php:1478, admin/theme-options.php:1898
+msgid "Footer Related Options"
+msgstr ""
+
+#: admin/theme-options.php:1483, admin/theme-options.php:1903
+msgid "Footer related options"
+msgstr ""
+
+#: admin/theme-options.php:1489, admin/theme-options.php:1909
+msgid "Footer Widget Area"
+msgstr ""
+
+#: admin/theme-options.php:1490, admin/theme-options.php:1910
+msgid "Select widgets, Goto <a href=\"%1$s\"target=\"_blank\"> Customizer </a> => Widgets"
+msgstr ""
+
+#: admin/theme-options.php:1502, admin/theme-options.php:1922
+msgid "Choose No.of widget area you want in footer"
+msgstr ""
+
+#: admin/theme-options.php:1506, admin/theme-options.php:1926
+msgid "1"
+msgstr ""
+
+#: admin/theme-options.php:1507, admin/theme-options.php:1927
+msgid "2"
+msgstr ""
+
+#: admin/theme-options.php:1508, admin/theme-options.php:1928
+msgid "3"
+msgstr ""
+
+#: admin/theme-options.php:1509, admin/theme-options.php:1929
+msgid "4"
+msgstr ""
+
+#: admin/theme-options.php:1516, admin/theme-options.php:1936
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/theme-options.php:1522, admin/theme-options.php:1942
+msgid "Footer Top Margin"
+msgstr ""
+
+#: admin/theme-options.php:1523, admin/theme-options.php:1943
+msgid "Select the top margin of footer in pixels"
+msgstr ""
+
+#: admin/theme-options.php:1545, admin/theme-options.php:1965
+msgid "Footer Image"
+msgstr ""
+
+#: admin/theme-options.php:1546, admin/theme-options.php:1966
+msgid "Custom Footer Image options"
+msgstr ""
+
+#: admin/theme-options.php:1552, admin/theme-options.php:1972
+msgid "Upload Footer Background Image"
+msgstr ""
+
+#: admin/theme-options.php:1565, admin/theme-options.php:1985
+msgid "Footer Background Size"
+msgstr ""
+
+#: admin/theme-options.php:1588, admin/theme-options.php:2008
+msgid "Footer Background Image Size"
+msgstr ""
+
+#: admin/theme-options.php:1592, admin/theme-options.php:2012
+msgid "Footer Background Repeat"
+msgstr ""
+
+#: admin/theme-options.php:1619, admin/theme-options.php:2039
+msgid "Footer Background Position"
+msgstr ""
+
+#: admin/theme-options.php:1651, admin/theme-options.php:2071
+msgid "Footer Background Attachment"
+msgstr ""
+
+#: admin/theme-options.php:1676, admin/theme-options.php:2096
+msgid "Enable Footer( Background ) Overlay"
+msgstr ""
+
+#: admin/theme-options.php:1688, admin/theme-options.php:2108
+msgid "Footer Overlay ( Background )color"
+msgstr ""
+
+#: admin/theme-options.php:1712
+msgid "Single Page"
+msgstr ""
+
+#: admin/theme-options.php:1713
+msgid "Single Page Related Options"
+msgstr ""
+
+#: admin/theme-options.php:1717
+msgid "Enable Single Page Featured Image"
+msgstr ""
+
+#: admin/theme-options.php:1728
+msgid "Single Page Featured Image Size"
+msgstr ""
+
+#: admin/theme-options.php:1732, admin/theme-options.php:2592
+msgid "Normal"
+msgstr ""
+
+#: admin/theme-options.php:1733
+msgid "FullWidth"
+msgstr ""
+
+#: admin/theme-options.php:1748
+msgid "Layout"
+msgstr ""
+
+#: admin/theme-options.php:1749
+msgid "Layout Related Options"
+msgstr ""
+
+#: admin/theme-options.php:1753
+msgid "Site Style"
+msgstr ""
+
+#: admin/theme-options.php:1757
+msgid "Wide"
+msgstr ""
+
+#: admin/theme-options.php:1758
+msgid "Boxed"
+msgstr ""
+
+#: admin/theme-options.php:1759
+msgid "Fluid"
+msgstr ""
+
+#: admin/theme-options.php:1763
+msgid "Choose the default site layout."
+msgstr ""
+
+#: admin/theme-options.php:1767
+msgid "Check the box if you want to use a global sidebar on all pages. This option overrides the page options"
+msgstr ""
+
+#: admin/theme-options.php:1776
+msgid "Main Layout"
+msgstr ""
+
+#: admin/theme-options.php:1779
+msgid "Select main content and sidebar arrangement."
+msgstr ""
+
+#: admin/theme-options.php:1790
+msgid "global sidebar on all pages. This option overrides the page layout sidebar options"
+msgstr ""
+
+#: admin/theme-options.php:1795
+msgid "Body Top Margin"
+msgstr ""
+
+#: admin/theme-options.php:1796
+msgid "Select the top margin of body element in pixels"
+msgstr ""
+
+#: admin/theme-options.php:1822
+msgid "Body Bottom Margin"
+msgstr ""
+
+#: admin/theme-options.php:1823
+msgid "Select the bottom margin of body element in pixels"
+msgstr ""
+
+#: admin/theme-options.php:2131
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/theme-options.php:2132
+msgid "Theme options related to woocommerce"
+msgstr ""
+
+#: admin/theme-options.php:2138
+msgid "Enable Woocommerce Sidebar"
+msgstr ""
+
+#: admin/theme-options.php:2139
+msgid "Enable Sidebar for shop page"
+msgstr ""
+
+#: admin/theme-options.php:2154, admin/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr ""
+
+#: admin/theme-options.php:2155
+msgid "This will affect overall site background color"
+msgstr ""
+
+#: admin/theme-options.php:2161
+msgid "General Background Color"
+msgstr ""
+
+#: admin/theme-options.php:2175
+msgid "Content Background Color"
+msgstr ""
+
+#: admin/theme-options.php:2178
+msgid "when you are select boxed layout content background color will reflect the grid area"
+msgstr ""
+
+#: admin/theme-options.php:2198
+msgid "General Background Image"
+msgstr ""
+
+#: admin/theme-options.php:2215
+msgid "General Background Repeat"
+msgstr ""
+
+#: admin/theme-options.php:2243
+msgid "General Background Size"
+msgstr ""
+
+#: admin/theme-options.php:2271
+msgid "General Background Attachment"
+msgstr ""
+
+#: admin/theme-options.php:2296
+msgid "General Background Position"
+msgstr ""
+
+#: admin/theme-options.php:2332
+msgid "Content Background Image"
+msgstr ""
+
+#: admin/theme-options.php:2333
+msgid "when you are select boxed layout content background image will reflect the grid area"
+msgstr ""
+
+#: admin/theme-options.php:2353
+msgid "Content Background Repeat"
+msgstr ""
+
+#: admin/theme-options.php:2386
+msgid "Content Background Size"
+msgstr ""
+
+#: admin/theme-options.php:2419
+msgid "Content Background Attachment"
+msgstr ""
+
+#: admin/theme-options.php:2449
+msgid "Content Background Position"
+msgstr ""
+
+#: admin/theme-options.php:2490
+msgid "Animation"
+msgstr ""
+
+#: admin/theme-options.php:2491
+msgid "Animation that affects overall site"
+msgstr ""
+
+#: admin/theme-options.php:2497
+msgid "Enable Animation Effect"
+msgstr ""
+
+#: admin/theme-options.php:2510, admin/theme-options.php:2511
+msgid "Custom JS"
+msgstr ""
+
+#: admin/theme-options.php:2516
+msgid "Custom Javascript: Quickly add some Javascript to your theme by adding it to this block.  Validate that it's javascript!"
+msgstr ""
+
+#: admin/theme-options.php:2530, admin/theme-options.php:2531
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/theme-options.php:2536
+msgid "Tracking Code :Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme. Validate that it's javascript!"
+msgstr ""
+
+#: admin/theme-options.php:2544
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme. <b>Validate that it's javascript!</b>"
+msgstr ""
+
+#: admin/theme-options.php:2548
+msgid "Enable to Load Tracking Code in Footer"
+msgstr ""
+
+#: admin/theme-options.php:2556
+msgid "Check to load analytics in footer. Uncheck to load in header."
+msgstr ""
+
+#: admin/theme-options.php:2563
+msgid "Light Box"
+msgstr ""
+
+#: admin/theme-options.php:2564
+msgid "Light Box Settings"
+msgstr ""
+
+#: admin/theme-options.php:2569
+msgid "Lightbox Theme"
+msgstr ""
+
+#: admin/theme-options.php:2574
+msgid "pp_default"
+msgstr ""
+
+#: admin/theme-options.php:2575
+msgid "light-rounded"
+msgstr ""
+
+#: admin/theme-options.php:2576
+msgid "dark-rounded"
+msgstr ""
+
+#: admin/theme-options.php:2577
+msgid "light-square"
+msgstr ""
+
+#: admin/theme-options.php:2578
+msgid "dark-square"
+msgstr ""
+
+#: admin/theme-options.php:2579
+msgid "facebook"
+msgstr ""
+
+#: admin/theme-options.php:2585
+msgid "Animation Speed"
+msgstr ""
+
+#: admin/theme-options.php:2590
+msgid "Fast"
+msgstr ""
+
+#: admin/theme-options.php:2591
+msgid "Slow"
+msgstr ""
+
+#: admin/theme-options.php:2598
+msgid "Autoplay Gallery Speed"
+msgstr ""
+
+#: admin/theme-options.php:2607
+msgid "If autoplay is set to true, select the slideshow speed in ms. (Default: 5000, 1000 ms = 1 second)"
+msgstr ""
+
+#: admin/theme-options.php:2611
+msgid "Enable Autoplay Gallery"
+msgstr ""
+
+#: admin/theme-options.php:2622
+msgid "Select Background Opacity"
+msgstr ""
+
+#: admin/theme-options.php:2631
+msgid "Enter 0.1 to 1.0"
+msgstr ""
+
+#: admin/theme-options.php:2635
+msgid "Show Gallery Thumbnails"
+msgstr ""
+
+#: includes/custom-header.php:79
+msgid "Play background video"
+msgstr ""
+
+#: includes/custom-header.php:80
+msgid "Pause background video"
+msgstr ""
+
+#: includes/extras.php:64
+msgid "Page %s"
+msgstr ""
+
+#: includes/hooks-filters.php:47
+msgid "<p>Powered by <a href=\"%1$s\" target=\"_blank\">WordPress-Theme</a> Beautify by Webulous"
+msgstr ""
+
+#: includes/hooks-filters.php:69
+msgid "%1$s"
+msgstr ""
+
+#: includes/template-tags.php:22
+msgctxt "Font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/template-tags.php:109, includes/template-tags.php:263
+msgid "Posts navigation"
+msgstr ""
+
+#: includes/template-tags.php:113
+msgid "Older posts"
+msgstr ""
+
+#: includes/template-tags.php:117
+msgid "Newer posts"
+msgstr ""
+
+#: includes/template-tags.php:129, includes/template-tags.php:156, includes/template-tags.php:201, includes/template-tags.php:329, includes/template-tags.php:625, includes/template-tags.php:636
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: includes/template-tags.php:162, includes/template-tags.php:207, includes/template-tags.php:245
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/template-tags.php:162, includes/template-tags.php:207, includes/template-tags.php:241
+msgid "1 Comment"
+msgstr ""
+
+#: includes/template-tags.php:162, includes/template-tags.php:207
+msgid "% Comments"
+msgstr ""
+
+#: includes/template-tags.php:166, includes/template-tags.php:172, includes/template-tags.php:211, includes/template-tags.php:217, includes/template-tags.php:347, includes/template-tags.php:353
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:168, includes/template-tags.php:174, includes/template-tags.php:213, includes/template-tags.php:219, includes/template-tags.php:349, includes/template-tags.php:355
+msgid "%1$s "
+msgstr ""
+
+#: includes/template-tags.php:177, includes/template-tags.php:222, includes/template-tags.php:334, includes/template-tags.php:414, includes/template-tags.php:434, template-parts/content-page.php:32
+msgid "Edit"
+msgstr ""
+
+#: includes/template-tags.php:237
+msgid "No Comments"
+msgstr ""
+
+#: includes/template-tags.php:239
+msgid " Comments"
+msgstr ""
+
+#: includes/template-tags.php:267
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: includes/template-tags.php:271
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/template-tags.php:294
+msgid "Post navigation"
+msgstr ""
+
+#: includes/template-tags.php:297
+msgid "previous post"
+msgstr ""
+
+#: includes/template-tags.php:297
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: includes/template-tags.php:298
+msgid "next post"
+msgstr ""
+
+#: includes/template-tags.php:298
+msgctxt "Next post link"
+msgid "%title&nbsp;"
+msgstr ""
+
+#: includes/template-tags.php:324
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: includes/template-tags.php:361
+msgid "<i class=\"fa fa-comments\"></i>Leave a comment"
+msgstr ""
+
+#: includes/template-tags.php:361
+msgid "<i class=\"fa fa-comments\"></i> 1 Comment"
+msgstr ""
+
+#: includes/template-tags.php:361
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr ""
+
+#: includes/template-tags.php:414
+msgid "Pingback:"
+msgstr ""
+
+#: includes/template-tags.php:426
+msgid "%s"
+msgstr ""
+
+#: includes/template-tags.php:431
+msgctxt "1: date, 2: time"
+msgid "- %1$s at %2$s"
+msgstr ""
+
+#: includes/template-tags.php:439
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/template-tags.php:471
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: includes/template-tags.php:472
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: includes/template-tags.php:473
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: includes/template-tags.php:474
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: includes/template-tags.php:475
+msgid "Error 404"
+msgstr ""
+
+#: includes/template-tags.php:612
+msgid "Page"
+msgstr ""
+
+#: includes/template-tags.php:679
+msgid "Related Post"
+msgstr ""
+
+#: includes/template-tags.php:687, includes/template-tags.php:690
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: includes/template-tags.php:867
+msgid "&laquo;"
+msgstr ""
+
+#: includes/template-tags.php:868
+msgid "&raquo;"
+msgstr ""
+
+#: pro/class-theme-panels.php:25
+msgid "Beautify Pro Home"
+msgstr ""
+
+#: pro/class-theme-panels.php:26
+msgid "Pre Built Layout for  home page"
+msgstr ""
+
+#: pro/class-theme-panels.php:32
+msgid "About Us Page"
+msgstr ""
+
+#: pro/class-theme-panels.php:33
+msgid "Pre Built layout for about us page"
+msgstr ""
+
+#: pro/class-theme-panels.php:38
+msgid "Contact Us Page"
+msgstr ""
+
+#: pro/class-theme-panels.php:39
+msgid "Pre Built layout for contact us page"
+msgstr ""
+
+#: pro/class-theme-panels.php:44
+msgid "FAQ Page"
+msgstr ""
+
+#: pro/class-theme-panels.php:45
+msgid "Pre Built Layout for faq page"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:20
+msgid "Primary sidebar"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:24
+msgid "Top Left"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:25
+msgid "Widget area at top left side of the header"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:28
+msgid "Top Right"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:29
+msgid "Widget area at top right side of the header"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:33
+msgid "Header Right"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:34
+msgid "Widget area at Header top right"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:37
+msgid "Footer Nav"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:38
+msgid "Widget area in bottom right side of Footer"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:41
+msgid "Footer %d"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:42
+msgid "One of 4 Column Footer widget area"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:47
+msgid "Sidebar Left"
+msgstr ""
+
+#: pro/class-theme-sidebars.php:48
+msgid "Left Sidebar"
+msgstr ""
+
+#: template-parts/breadcrumb.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/breadcrumb.php:26
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-blog.php:49, template-parts/content-page.php:26, template-parts/content-single.php:39, template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: admin/kirki-helpers/include-kirki.php:41
+msgid "The plugin is installed but not activated. Please <a href=\"%s\">activate it</a>."
+msgstr ""
+
+#: admin/kirki-helpers/include-kirki.php:58
+msgid "If you want to take full advantage of the options this theme has to provide, please install the Kirki plugin."
+msgstr ""
+
+#: pro/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: pro/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: pro/updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: pro/updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: pro/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: pro/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: pro/updater/theme-updater.php:35, pro/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr ""
+
+#: pro/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: pro/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: pro/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: pro/updater/theme-updater.php:39
+msgid "Expires %s."
+msgstr ""
+
+#: pro/updater/theme-updater.php:40
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: pro/updater/theme-updater.php:41
+msgid "License key expired %s."
+msgstr ""
+
+#: pro/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr ""
+
+#: pro/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr ""
+
+#: pro/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr ""
+
+#: pro/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr ""
+
+#: pro/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr ""
+
+#: pro/updater/theme-updater.php:48
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: pro/updater/theme-updater.php:49
+msgid "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:198
+msgid "Limit: %s rows"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:199, admin/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:200, admin/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:201
+msgid "%s Reset"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr ""
+
+#: admin/kirki/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr ""

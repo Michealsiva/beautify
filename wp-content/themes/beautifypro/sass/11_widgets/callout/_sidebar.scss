@@ -1,0 +1,31 @@
+#secondary .left-sidebar{
+
+	.callout-widget {
+		background-color: $primary;
+		padding: 15px;
+		margin:0;
+
+		div.twelve.columns, .four.columns {
+			width: 100%;
+			text-align:center;
+		}
+
+		h3 {
+			margin-bottom: 10px;
+			width: 100%;
+			text-align: center;
+			color: $white;
+			font-size:2.5rem;
+		}
+
+		
+		a {
+			float:none;
+			&:hover {
+				background-color: $secondary;
+				color: $white;
+			}
+		}
+		
+	}
+}

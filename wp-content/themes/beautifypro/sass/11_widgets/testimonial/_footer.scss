@@ -1,0 +1,54 @@
+.site-footer .widget_testimonial-widget {
+	padding:0;
+	h3 {
+		margin-bottom: 0;
+	}
+
+	.testimonial-container {
+		padding-bottom: 20px;
+		background-color: transparent;
+	}
+
+	.testimony {
+	width: 100%;
+	margin-left: 0;
+		p {
+			@include font-size(1.5);
+			padding-top: 60px;
+			line-height: 1.5;
+			background: transparent;
+			&:before {
+				color: $black;
+				@include font-size(4);
+			}
+
+		}
+		.t-inner {
+			color: $black !important;
+			text-indent: 20px;
+			&:before {
+			background-color: transparent;
+			left: -19px;
+			top: 0%;
+			}
+		}
+	}
+
+	ul li {
+		.client {
+			color: $primary;
+			strong {
+				color: $white;
+			}
+		}
+	}
+	.flex-direction-nav {
+	li {
+		position: relative !important;
+		a {
+			opacity: 1;
+			top: -20px;
+		}
+	}
+	}
+}

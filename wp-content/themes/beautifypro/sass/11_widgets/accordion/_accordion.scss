@@ -1,0 +1,55 @@
+.ui-accordion {
+	h3 {
+		font-weight: 700;    
+    	cursor: pointer;
+    	position: relative;
+    	padding: 10px 20px 10px 65px;   
+    	margin-top: 2px;
+    	//color: $white;
+    	font-family: $copy_font;       
+	  	border-bottom:1px solid $c1;
+	  	text-transform:uppercase;   
+    	@include font-size(1.8);
+    	margin-bottom: 0px;
+             
+		span {
+			display: inline-block;
+			@include position(absolute, $left: 20px, $top: 10px); 
+		  	padding: 4px 5px 3px;
+		  	font-size:13px;
+		  	color:$primary;   
+		  	border:1px solid $primary;
+		  	border-radius:100px
+		} 
+  
+    }
+
+	.ui-accordion-content {
+	    padding: 20px;
+	    text-align: left;
+	    border: 1px solid $c1;
+	    border-top: none;
+	    margin-bottom: 10px;
+	    color: $secondary;
+	    p{
+  			margin-bottom: 0px;
+	    }
+ 
+	}    
+
+	.ui-accordion-header-active {
+	    cursor: default;
+	    color: $white;
+		margin-bottom:0;
+		background-color: $primary;	
+		span {
+	  		color:$white;   
+		  	border:1px solid $white;
+	  	}
+	}
+}
+
+
+@import "footer";
+
+@import "sidebar";

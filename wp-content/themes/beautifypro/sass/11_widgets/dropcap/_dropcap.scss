@@ -1,0 +1,48 @@
+.dropcap {
+  float: left;
+  padding: 0 5px;
+  font-size: 3em;
+  font-weight: bold;
+  line-height: 1;
+  margin-right: 15px; 
+  text-transform: uppercase;
+  color:$primary;
+}
+
+.dropcap-circle {
+  @include border-radius(50px);
+  padding: 5px 15px 9px;
+}
+
+.dropcap-box {
+  padding: 5px 15px;
+}
+
+.dropcap-circle,
+.dropcap-box {
+  color: $white;
+  background-color: $primary; 
+}
+
+.dropcap-book {
+	padding: 5px 15px; 
+	text-shadow: 1px 1px 1px $secondary;
+	//border: 2px solid $secondary;
+  background: $primary; /* Old browsers */
+  background: -moz-linear-gradient(top,  $primary 0%, #92C8C7 47%, $primary 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,$primary), color-stop(47%,#92C8C7), color-stop(100%,$primary)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  $primary 0%,#92C8C7 47%,$primary 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  $primary 0%,#92C8C7 47%,$primary 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  $primary 0%,#92C8C7 47%,$primary 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  $primary 0%,#92C8C7 47%,$primary 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$primary', endColorstr='$primary',GradientType=0 ); /* IE6-9 */
+  color: $white;  
+}
+
+
+
+
+
+@import "footer";
+
+@import "sidebar";

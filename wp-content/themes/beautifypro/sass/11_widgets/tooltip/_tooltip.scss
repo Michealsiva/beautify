@@ -1,0 +1,169 @@
+.withtip {
+    position: relative;
+}
+.so-widget-tooltip-widget{
+    p:nth-of-type(1) {
+        display: inline;
+    }
+}
+
+.withtip:before,
+.withtip:after {
+    visibility: hidden;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+    pointer-events: none;
+}
+
+.withtip:before {
+    position: absolute;
+    padding: 7px;
+    content: attr(title);
+    text-align: center;
+    width: 100%;
+}
+
+.withtip:after {
+    position: absolute;
+    width: 0;
+    content: " ";
+    font-size: 0;
+    line-height: 0;
+}
+
+.withtip:hover:before,
+.withtip:hover:after {
+    visibility: visible;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    opacity: 1;
+}
+
+.withtip.top:before {
+    bottom: 80%;
+    left: 50%;
+    margin-bottom: 4px;
+    margin-left: -40px;
+}
+
+.withtip.top:after {
+    bottom: 80%;
+    left: 50%;
+    margin-left: -5px;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+}
+
+.withtip.right:before {
+    top: 50%;
+    left: 102%;
+    margin-top: -17px;
+}
+
+.withtip.right:after {
+    top: 5px;
+    left: 102%;
+    margin-left: -5px;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+}
+
+.withtip.bottom:before {
+    top: 150%;
+    left: 50%;
+    margin-top: 5px;
+    margin-left: -40px;
+    z-index: 100;
+}
+
+.withtip.bottom:after {
+    top: 150%;
+    left: 50%;
+    margin-left: -5px;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    z-index: 100;
+}
+
+.withtip.left:before {
+    top: 50%;
+    right: 102%;
+    margin-top: -17px;
+}
+
+.withtip.left:after {
+    top: 5px;
+    right: 102%;
+    margin-right: -4px;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+}
+
+
+[data-toggle]:before,
+[data-toggle]:after,
+.withtip:before,
+.withtip:after {
+    transform: translate3d(0px, 0px, 0px);
+    transition: opacity 0.2s ease-in-out 0s,
+    visibility 0.2s ease-in-out 0s,
+    transform 0.2s cubic-bezier(0.71, 1.7, 0.77, 1.24) 0s;
+}
+
+[data-toggle]:hover:before,
+[data-toggle]:hover:after,
+[data-toggle]:focus:before,
+[data-toggle]:focus:after,
+.withtip:hover:before,
+.withtip:hover:after,
+.withtip:focus:before,
+.withtip:focus:after,
+.withtip.top:hover:before,
+.withtip.top:hover:after,
+.withtip.top:focus:before,
+.withtip.top:focus:after {
+    transform: translateY(-12px);
+}
+
+.withtip.left:hover:before,
+.withtip.left:hover:after,
+.withtip.left:focus:before,
+.withtip.left:focus:after {
+    transform: translateX(-12px);
+}
+
+.withtip-bottom:hover:before,
+.withtip-bottom:hover:after,
+.withtip-bottom:focus:before,
+.withtip-bottom:focus:after {
+    transform: translateY(12px);
+}
+
+.withtip.right:hover:before,
+.withtip.right:hover:after,
+.withtip.right:focus:before,
+.withtip.right:focus:after {
+    transform: translateX(12px);
+}
+
+.withtip:before {
+    background-color: $primary;
+    color: $white;
+}
+
+.withtip.top:after {
+    border-top: 5px solid $primary;
+}
+
+.withtip.right:after {
+    border-right: 5px solid $primary;
+}
+
+.withtip.bottom:after {
+    border-bottom: 5px solid $primary;
+}
+
+.withtip.left:after {
+    border-left: 5px solid $primary;
+}

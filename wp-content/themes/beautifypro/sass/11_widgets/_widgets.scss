@@ -1,0 +1,49 @@
+.textwidget {
+	font-weight: normal;
+	h2 {
+		margin-bottom: 20px;
+	}
+}
+
+.content-area {
+	.textwidget {  
+		padding: 0;
+	}
+}
+
+@import "widget-class";
+@import "portfolio";
+@import "breadcrumb";
+@import "singleportfolio";
+@import "authorbio";
+@import "flexcarousel";
+@import "relatedpost";
+@import "mp-timetable";
+
+
+@import "accordion/accordion";
+@import "alert/alert";
+@import "button/button";
+@import "callout/callout";
+@import "divider/divider";
+@import "dropcap/dropcap";
+@import "elastic-slider/elasticslider";
+@import "flex-slider/flexslider";
+@import "flickr/flickr";
+@import "heading/headingseperator";
+@import "icon/icon-box";
+@import "image/image";
+@import "list/list";
+@import "price-table/price-table";
+@import "quote/quote";
+@import "recent-post/recentpost";
+@import "recent-work/recentwork";
+@import "skill/skill";
+@import "social/social";
+@import "stats/stats";
+@import "tab/tab";
+@import "team-member/team-member";
+@import "testimonial/testimonial";
+@import "toggle/toggle";
+@import "tooltip/tooltip";
+@import "process-design/process-design";

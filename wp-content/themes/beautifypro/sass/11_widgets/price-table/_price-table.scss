@@ -1,0 +1,98 @@
+.gx-pricing-table {
+    border-top: 1px solid $c1;
+    border-left: 1px solid $c1;
+    border-bottom: 1px solid $c1;
+    text-align: center;
+    background:$white;
+    float:left;
+    &:last-child{
+        border-right: 1px solid $c1;
+    }
+    .gx-table-header{
+        padding: 10px 15px 25px 15px;
+        border-bottom: 1px solid $c1;
+        border-top:20px solid $white;
+        h4 {
+            
+            font-weight: 400;
+            @include font-size(2.2);
+            margin-bottom:0;
+        }
+        p {
+            margin-bottom:0;
+            @include font-size(1.4);
+        }
+    }
+    .gx-table-rate {
+        padding: 5px 17px 17px;
+        @include font-size(1.5);
+        color: $secondary;
+        font-weight: 400;
+        position: relative;
+        .gx-price-rate {
+            font-weight: 700;
+            @include font-size(3.4);        
+            line-height: -moz-block-height;
+            line-height: block-height;
+            &:before {
+                position: relative;
+                content:"$";
+                left: -6px;
+                top: -4px;
+                font-weight:600;
+                @include font-size(1.6);
+            }
+        }
+    }
+    .gx-table-content {
+        padding: 40px 10px 10px;
+        border-bottom: 1px solid $c1;
+        ul,ol {
+            margin-left:0;
+            margin-bottom: 40px;
+            list-style: none;
+            
+        }
+        li {
+                list-style: none;
+                margin-bottom: 25px;
+                font-weight: 400;
+                .fa {   
+                  display: block;
+                  margin-bottom: 8px;
+                  color: $primary;
+                }
+                span {   
+                  display: block;
+                  margin-bottom: 8px;
+                  color: $primary;
+                }
+            }
+    }
+    .price-btn {
+        padding:35px 20px;
+        margin-bottom:0px;
+        .btn-normal {
+            padding: 10px 35px 10px; 
+            background-color:$c1;
+            color:$secondary;
+            display:inline-block;
+        }
+    }
+    &:hover {
+        .gx-table-header {
+            border-top:20px solid $primary;
+        }
+        .btn-normal {
+            background-color:$primary;
+            color:$white;
+        }
+    }
+
+}
+
+
+
+@import "footer";
+
+@import "sidebar";

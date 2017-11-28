@@ -1,0 +1,42 @@
+.sow-headline-container.sep {
+    color:$primary;
+    position:relative;
+    width:50%;
+    padding-bottom:10px;
+    &:after {
+      border-bottom:2px solid $c1;
+      position:absolute;
+      content:"";
+      width:47%;
+      bottom:0px;
+      right:0px;
+    }
+    &:before {
+      border-bottom:2px solid $c1;
+      position:absolute;
+      content:"";
+      width:47%;
+      bottom:0px;
+      left:0px;
+    }
+    span{
+      &:after {
+        position:absolute;
+        text-align:center;
+        font-size:60px;
+        content:".";
+        bottom:-30px;
+        left:47.5%;
+        width:6%;
+        color:inherit;
+      }
+    }
+}
+
+.sow-headline-container.sep.center {
+  margin:0 auto;
+}
+
+.sow-headline-container.sep.right {
+  float:right;
+}
